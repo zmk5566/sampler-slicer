@@ -1,0 +1,5005 @@
+{
+  "export_info": {
+    "timestamp": "2025-07-20T16:01:52.676485",
+    "source_file": "samples/编铙/biannao-正鼓音.wav",
+    "onset_threshold": 0.3,
+    "min_segment_length": 0.3,
+    "semitone_range": [
+      -6,
+      6
+    ],
+    "step_size": 2.0
+  },
+  "statistics": {
+    "total_segments": 92,
+    "total_variants": 70,
+    "pitch_range": {
+      "min_freq": 0,
+      "max_freq": 0
+    },
+    "dynamics_distribution": {
+      "level_distribution": {
+        "pp": 59,
+        "mp": 16,
+        "mf": 8,
+        "p": 9
+      },
+      "rms_statistics": {
+        "mean": 0.04028929834364293,
+        "std": 0.06490712478072624,
+        "min": 1.0052824109152425e-05,
+        "max": 0.30131301283836365
+      }
+    }
+  },
+  "segments": [
+    {
+      "segment_id": "segment_002",
+      "index": 0,
+      "filename": "segment_000_B_pp_246.2Hz.wav",
+      "onset_time": 0.615328798185941,
+      "duration": 0.35766439909297054,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 246.1545277515472,
+        "note_name": "B",
+        "octave": 3,
+        "cents_deviation": -5.527096504956219,
+        "confidence": 0.17155524854748294,
+        "pitch_stability": 0.4462573903219607,
+        "harmonics": [
+          {
+            "frequency": 473.73046875,
+            "amplitude": 0.08651715517044067
+          },
+          {
+            "frequency": 732.12890625,
+            "amplitude": 0.058477409183979034
+          },
+          {
+            "frequency": 1001.2939453125,
+            "amplitude": 0.0626097023487091
+          },
+          {
+            "frequency": 1248.92578125,
+            "amplitude": 0.10216403752565384
+          },
+          {
+            "frequency": 1453.4912109375,
+            "amplitude": 0.11665146052837372
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0028820533771067858,
+        "peak_amplitude": 0.00802403874695301,
+        "loudness_lufs": -56.67672745989626,
+        "dynamic_range_db": 28.725335199624983,
+        "dynamic_level": "pp",
+        "attack_time_ms": 201.04308390022678,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.4878835589118577,
+        "release_time_ms": 6.961451247165534,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00011279043537108053,
+          "decay_slope": -0.00013285144949677893
+        }
+      }
+    },
+    {
+      "segment_id": "segment_010",
+      "index": 1,
+      "filename": "segment_001_D_pp_291.8Hz.wav",
+      "onset_time": 2.147845804988662,
+      "duration": 0.36346938775510207,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 291.81180623876617,
+        "note_name": "D",
+        "octave": 4,
+        "cents_deviation": -10.958324216446513,
+        "confidence": 0.0016227196259217004,
+        "pitch_stability": 0.05937863716573345,
+        "harmonics": [
+          {
+            "frequency": 559.86328125,
+            "amplitude": 0.10940701514482498
+          },
+          {
+            "frequency": 904.39453125,
+            "amplitude": 0.15839560329914093
+          },
+          {
+            "frequency": 1195.0927734375,
+            "amplitude": 0.11210960894823074
+          },
+          {
+            "frequency": 1453.4912109375,
+            "amplitude": 0.04689057543873787
+          },
+          {
+            "frequency": 1744.189453125,
+            "amplitude": 0.03252558410167694
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.003041752614080906,
+        "peak_amplitude": 0.009457451291382313,
+        "loudness_lufs": -58.27051507706218,
+        "dynamic_range_db": 29.511342886227293,
+        "dynamic_level": "pp",
+        "attack_time_ms": 118.59410430839003,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.3017406648884683,
+        "release_time_ms": 0.15873015873015872,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00019120458891013384,
+          "decay_slope": -6.254211855283337e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_023",
+      "index": 2,
+      "filename": "segment_002_C#_pp_269.6Hz.wav",
+      "onset_time": 4.527891156462585,
+      "duration": 0.5027891156462578,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 269.56930201274486,
+        "note_name": "C#",
+        "octave": 4,
+        "cents_deviation": -48.21677075743693,
+        "confidence": 0.039057341913380506,
+        "pitch_stability": 0.13321886970506294,
+        "harmonics": [
+          {
+            "frequency": 516.796875,
+            "amplitude": 0.05487588793039322
+          },
+          {
+            "frequency": 785.9619140625,
+            "amplitude": 0.021566687151789665
+          },
+          {
+            "frequency": 1098.193359375,
+            "amplitude": 0.011606758460402489
+          },
+          {
+            "frequency": 1345.8251953125,
+            "amplitude": 0.01154449861496687
+          },
+          {
+            "frequency": 1604.2236328125,
+            "amplitude": 0.011064484715461731
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.003165719797834754,
+        "peak_amplitude": 0.009052804671227932,
+        "loudness_lufs": -61.50064332207735,
+        "dynamic_range_db": 31.505157136490386,
+        "dynamic_level": "pp",
+        "attack_time_ms": 403.968253968254,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.2810631970577662,
+        "release_time_ms": 1.8820861678004535,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 5.613247263541959e-05,
+          "decay_slope": -0.0001888981757355346
+        }
+      }
+    },
+    {
+      "segment_id": "segment_033",
+      "index": 3,
+      "filename": "segment_003_C_pp_264.0Hz.wav",
+      "onset_time": 6.513197278911565,
+      "duration": 0.4099092970521534,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 264.03839840784684,
+        "note_name": "C",
+        "octave": 4,
+        "cents_deviation": 15.89307411077776,
+        "confidence": 0.11500787461926201,
+        "pitch_stability": 0.3329471962191511,
+        "harmonics": [
+          {
+            "frequency": 506.0302734375,
+            "amplitude": 0.06532562524080276
+          },
+          {
+            "frequency": 818.26171875,
+            "amplitude": 0.021174227818846703
+          },
+          {
+            "frequency": 1076.66015625,
+            "amplitude": 0.01550164632499218
+          },
+          {
+            "frequency": 1345.8251953125,
+            "amplitude": 0.012542926706373692
+          },
+          {
+            "frequency": 1561.1572265625,
+            "amplitude": 0.01050376333296299
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0026143421418964863,
+        "peak_amplitude": 0.0073006125167012215,
+        "loudness_lufs": -62.84648244007049,
+        "dynamic_range_db": 27.652445976442444,
+        "dynamic_level": "pp",
+        "attack_time_ms": 243.1746031746032,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.29647770593535044,
+        "release_time_ms": 0.09070294784580499,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 9.324878776575905e-05,
+          "decay_slope": -8.930333625340933e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_037",
+      "index": 4,
+      "filename": "segment_004_C_pp_256.4Hz.wav",
+      "onset_time": 7.383945578231293,
+      "duration": 0.5376190476190468,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 256.3860253410181,
+        "note_name": "C",
+        "octave": 3,
+        "cents_deviation": -35.023074779036634,
+        "confidence": 0.02921222906162771,
+        "pitch_stability": 0.12610337705376096,
+        "harmonics": [
+          {
+            "frequency": 516.796875,
+            "amplitude": 0.061608895659446716
+          },
+          {
+            "frequency": 764.4287109375,
+            "amplitude": 0.025652766227722168
+          },
+          {
+            "frequency": 1001.2939453125,
+            "amplitude": 0.01572634093463421
+          },
+          {
+            "frequency": 1302.7587890625,
+            "amplitude": 0.012380413711071014
+          },
+          {
+            "frequency": 1518.0908203125,
+            "amplitude": 0.011928382329642773
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0023965658619999886,
+        "peak_amplitude": 0.0058047231286764145,
+        "loudness_lufs": -63.60934184293646,
+        "dynamic_range_db": 27.822748837340736,
+        "dynamic_level": "pp",
+        "attack_time_ms": 294.53514739229024,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.44007458870396443,
+        "release_time_ms": 52.44897959183673,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 7.698822080221726e-05,
+          "decay_slope": -7.335282960020158e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_045",
+      "index": 5,
+      "filename": "segment_005_A#_pp_455.2Hz.wav",
+      "onset_time": 9.229931972789116,
+      "duration": 0.3054195011337857,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 455.248696098849,
+        "note_name": "A#",
+        "octave": 4,
+        "cents_deviation": -41.01836636656078,
+        "confidence": 0.025759323582323707,
+        "pitch_stability": 0.09167103079229413,
+        "harmonics": [
+          {
+            "frequency": 904.39453125,
+            "amplitude": 0.8314075469970703
+          },
+          {
+            "frequency": 1388.8916015625,
+            "amplitude": 0.01827784813940525
+          },
+          {
+            "frequency": 1862.6220703125,
+            "amplitude": 0.010450391098856926
+          },
+          {
+            "frequency": 2293.2861328125,
+            "amplitude": 0.008430344052612782
+          },
+          {
+            "frequency": 2723.9501953125,
+            "amplitude": 0.0066210366785526276
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0026069439481943846,
+        "peak_amplitude": 0.00784143153578043,
+        "loudness_lufs": -57.039452072933955,
+        "dynamic_range_db": 30.491787489341768,
+        "dynamic_level": "pp",
+        "attack_time_ms": 24.104308390022677,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.2605495060398776,
+        "release_time_ms": 17.75510204081633,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.0009407337723424271,
+          "decay_slope": -7.009518374875258e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_047",
+      "index": 6,
+      "filename": "segment_006_C#_pp_278.2Hz.wav",
+      "onset_time": 9.636281179138322,
+      "duration": 0.38668934240362596,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 278.1583133255748,
+        "note_name": "C#",
+        "octave": 4,
+        "cents_deviation": 6.083240425340186,
+        "confidence": 0.014815582589213073,
+        "pitch_stability": 0.08968828849665418,
+        "harmonics": [
+          {
+            "frequency": 538.330078125,
+            "amplitude": 0.04379473999142647
+          },
+          {
+            "frequency": 839.794921875,
+            "amplitude": 0.017943289130926132
+          },
+          {
+            "frequency": 1130.4931640625,
+            "amplitude": 0.013775683008134365
+          },
+          {
+            "frequency": 1378.125,
+            "amplitude": 0.01700456812977791
+          },
+          {
+            "frequency": 1679.58984375,
+            "amplitude": 0.022159799933433533
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.00286649027839303,
+        "peak_amplitude": 0.007645058445632458,
+        "loudness_lufs": -62.243360210032925,
+        "dynamic_range_db": 26.07321762262248,
+        "dynamic_level": "pp",
+        "attack_time_ms": 272.6303854875283,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.24609973077722364,
+        "release_time_ms": 11.519274376417235,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 8.31739166597355e-05,
+          "decay_slope": -0.00018488522048155362
+        }
+      }
+    },
+    {
+      "segment_id": "segment_048",
+      "index": 7,
+      "filename": "segment_007_A_pp_110.4Hz.wav",
+      "onset_time": 9.97297052154195,
+      "duration": 1.0136281179138322,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 110.40167348450885,
+        "note_name": "A",
+        "octave": 2,
+        "cents_deviation": 6.31022053397956,
+        "confidence": 0.004314886427357785,
+        "pitch_stability": 0.10524509964283091,
+        "harmonics": [
+          {
+            "frequency": 226.0986328125,
+            "amplitude": 0.03429784998297691
+          },
+          {
+            "frequency": 322.998046875,
+            "amplitude": 0.015271482057869434
+          },
+          {
+            "frequency": 441.4306640625,
+            "amplitude": 0.01640060544013977
+          },
+          {
+            "frequency": 559.86328125,
+            "amplitude": 0.005523354280740023
+          },
+          {
+            "frequency": 656.7626953125,
+            "amplitude": 0.006976973731070757
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0007277069962583482,
+        "peak_amplitude": 0.0062244003638625145,
+        "loudness_lufs": -73.7441802432436,
+        "dynamic_range_db": 69.87101736098687,
+        "dynamic_level": "pp",
+        "attack_time_ms": 85.82766439909297,
+        "decay_time_ms": 428.95691609977325,
+        "sustain_level": 0.0024318495263571773,
+        "release_time_ms": 0.022675736961451247,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.0002642007926023778,
+          "decay_slope": -2.1157632669411283e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_051",
+      "index": 8,
+      "filename": "segment_008_F_pp_344.6Hz.wav",
+      "onset_time": 11.296507936507936,
+      "duration": 0.5143990929705211,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 344.59219110887557,
+        "note_name": "F",
+        "octave": 4,
+        "cents_deviation": -23.13621811426767,
+        "confidence": 0.001978452878978917,
+        "pitch_stability": 0.08123843869499527,
+        "harmonics": [
+          {
+            "frequency": 656.7626953125,
+            "amplitude": 0.052917253226041794
+          },
+          {
+            "frequency": 1012.060546875,
+            "amplitude": 0.02257968857884407
+          },
+          {
+            "frequency": 1399.658203125,
+            "amplitude": 0.018786387518048286
+          },
+          {
+            "frequency": 1690.3564453125,
+            "amplitude": 0.0136861028149724
+          },
+          {
+            "frequency": 2088.720703125,
+            "amplitude": 0.012415117584168911
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.009238157421350479,
+        "peak_amplitude": 0.026662252843379974,
+        "loudness_lufs": -53.038995615415985,
+        "dynamic_range_db": 31.012623214246563,
+        "dynamic_level": "pp",
+        "attack_time_ms": 282.44897959183675,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.16961566305120146,
+        "release_time_ms": 61.224489795918366,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 8.028259473346178e-05,
+          "decay_slope": -8.685112848813018e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_059",
+      "index": 9,
+      "filename": "segment_009_B_pp_486.7Hz.wav",
+      "onset_time": 12.87546485260771,
+      "duration": 0.3170294784580481,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 486.67310639315724,
+        "note_name": "B",
+        "octave": 4,
+        "cents_deviation": -25.460564491918447,
+        "confidence": 0.10121631736902025,
+        "pitch_stability": 0.24871955943773744,
+        "harmonics": [
+          {
+            "frequency": 968.994140625,
+            "amplitude": 1.4804964065551758
+          },
+          {
+            "frequency": 1453.4912109375,
+            "amplitude": 0.02421223185956478
+          },
+          {
+            "frequency": 1905.6884765625,
+            "amplitude": 0.014587891288101673
+          },
+          {
+            "frequency": 2400.9521484375,
+            "amplitude": 0.01106069516390562
+          },
+          {
+            "frequency": 2960.8154296875,
+            "amplitude": 0.021228458732366562
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.004474868532270193,
+        "peak_amplitude": 0.014283174648880959,
+        "loudness_lufs": -52.0083612833093,
+        "dynamic_range_db": 28.994788931432637,
+        "dynamic_level": "pp",
+        "attack_time_ms": 0.7709750566893424,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.1898857704387629,
+        "release_time_ms": 0.022675736961451247,
+        "envelope_shape": {
+          "type": "generic",
+          "attack_slope": 0.029411764705882353,
+          "decay_slope": -3.0018998646748998e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_062",
+      "index": 10,
+      "filename": "segment_010_B_pp_246.0Hz.wav",
+      "onset_time": 13.421133786848072,
+      "duration": 0.32863945578231224,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 246.04093393886063,
+        "note_name": "B",
+        "octave": 3,
+        "cents_deviation": -6.326199686860967,
+        "confidence": 0.11837981182998428,
+        "pitch_stability": 0.32552931342416386,
+        "harmonics": [
+          {
+            "frequency": 473.73046875,
+            "amplitude": 0.07270407676696777
+          },
+          {
+            "frequency": 753.662109375,
+            "amplitude": 0.040190622210502625
+          },
+          {
+            "frequency": 968.994140625,
+            "amplitude": 0.0897379219532013
+          },
+          {
+            "frequency": 1205.859375,
+            "amplitude": 0.03080173395574093
+          },
+          {
+            "frequency": 1475.0244140625,
+            "amplitude": 0.02942742593586445
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0027251658029854298,
+        "peak_amplitude": 0.006790970452129841,
+        "loudness_lufs": -61.4992375036004,
+        "dynamic_range_db": 25.23293458508168,
+        "dynamic_level": "pp",
+        "attack_time_ms": 213.1972789115646,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.2665367719090955,
+        "release_time_ms": 21.24716553287982,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00010636034886194426,
+          "decay_slope": -0.0001851829635912393
+        }
+      }
+    },
+    {
+      "segment_id": "segment_064",
+      "index": 11,
+      "filename": "segment_011_C#_pp_278.4Hz.wav",
+      "onset_time": 13.850702947845805,
+      "duration": 0.3170294784580481,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 278.3829052462604,
+        "note_name": "C#",
+        "octave": 4,
+        "cents_deviation": 7.480517709997514,
+        "confidence": 0.04034149068214848,
+        "pitch_stability": 0.15316653253304963,
+        "harmonics": [
+          {
+            "frequency": 581.396484375,
+            "amplitude": 0.059797268360853195
+          },
+          {
+            "frequency": 829.0283203125,
+            "amplitude": 0.01846136525273323
+          },
+          {
+            "frequency": 1130.4931640625,
+            "amplitude": 0.011825107038021088
+          },
+          {
+            "frequency": 1410.4248046875,
+            "amplitude": 0.012311942875385284
+          },
+          {
+            "frequency": 1647.2900390625,
+            "amplitude": 0.01406849268823862
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0023782839998602867,
+        "peak_amplitude": 0.0074319178238511086,
+        "loudness_lufs": -63.70334067655943,
+        "dynamic_range_db": 27.930993982038224,
+        "dynamic_level": "pp",
+        "attack_time_ms": 149.8185941043084,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.27772890271918377,
+        "release_time_ms": 30.317460317460316,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00015135462388375965,
+          "decay_slope": -0.0001248913111454131
+        }
+      }
+    },
+    {
+      "segment_id": "segment_092",
+      "index": 12,
+      "filename": "segment_012_D#_pp_313.8Hz.wav",
+      "onset_time": 19.005532879818595,
+      "duration": 0.36346938775510296,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 313.79586536664976,
+        "note_name": "D#",
+        "octave": 4,
+        "cents_deviation": 14.78738335207792,
+        "confidence": 0.03706685594219759,
+        "pitch_stability": 0.2074735365177957,
+        "harmonics": [
+          {
+            "frequency": 613.6962890625,
+            "amplitude": 0.03189833089709282
+          },
+          {
+            "frequency": 968.994140625,
+            "amplitude": 0.8321736454963684
+          },
+          {
+            "frequency": 1259.6923828125,
+            "amplitude": 0.012855350971221924
+          },
+          {
+            "frequency": 1539.6240234375,
+            "amplitude": 0.014086415991187096
+          },
+          {
+            "frequency": 1873.388671875,
+            "amplitude": 0.009398765861988068
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0030706259422004223,
+        "peak_amplitude": 0.009278903715312481,
+        "loudness_lufs": -55.982994641821634,
+        "dynamic_range_db": 32.04050525805868,
+        "dynamic_level": "pp",
+        "attack_time_ms": 106.4172335600907,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.22422891766351388,
+        "release_time_ms": 0.022675736961451247,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00021308331557639036,
+          "decay_slope": -6.341846683111103e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_094",
+      "index": 13,
+      "filename": "segment_013_C_pp_258.4Hz.wav",
+      "onset_time": 19.481541950113378,
+      "duration": 0.3286394557823158,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 258.3769932897916,
+        "note_name": "C",
+        "octave": 3,
+        "cents_deviation": -21.631092191252677,
+        "confidence": 0.02919767839789099,
+        "pitch_stability": 0.13718891434382594,
+        "harmonics": [
+          {
+            "frequency": 495.263671875,
+            "amplitude": 0.051197782158851624
+          },
+          {
+            "frequency": 764.4287109375,
+            "amplitude": 0.023721760138869286
+          },
+          {
+            "frequency": 1012.060546875,
+            "amplitude": 0.011320669203996658
+          },
+          {
+            "frequency": 1313.525390625,
+            "amplitude": 0.011640035547316074
+          },
+          {
+            "frequency": 1539.6240234375,
+            "amplitude": 0.013288488611578941
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.002463259268552065,
+        "peak_amplitude": 0.006392800249159336,
+        "loudness_lufs": -63.246566838706684,
+        "dynamic_range_db": 28.648318777320192,
+        "dynamic_level": "pp",
+        "attack_time_ms": 190.86167800453515,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.20024677233456215,
+        "release_time_ms": 0.022675736961451247,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00011880717595342758,
+          "decay_slope": -0.00010016672171607846
+        }
+      }
+    },
+    {
+      "segment_id": "segment_096",
+      "index": 14,
+      "filename": "segment_014_B_pp_120.1Hz.wav",
+      "onset_time": 19.922721088435374,
+      "duration": 0.6769387755102052,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 120.07420840068869,
+        "note_name": "B",
+        "octave": 2,
+        "cents_deviation": -48.292671477890536,
+        "confidence": 3.882638304646666e-05,
+        "pitch_stability": 0.03101611000228243,
+        "harmonics": [
+          {
+            "frequency": 247.6318359375,
+            "amplitude": 0.08744411170482635
+          },
+          {
+            "frequency": 366.064453125,
+            "amplitude": 0.024620914831757545
+          },
+          {
+            "frequency": 473.73046875,
+            "amplitude": 0.014974653720855713
+          },
+          {
+            "frequency": 592.1630859375,
+            "amplitude": 0.012914329767227173
+          },
+          {
+            "frequency": 710.595703125,
+            "amplitude": 0.005996221210807562
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0016508528497070074,
+        "peak_amplitude": 0.018331781029701233,
+        "loudness_lufs": -64.13928490541511,
+        "dynamic_range_db": 76.9082244523503,
+        "dynamic_level": "pp",
+        "attack_time_ms": 166.89342403628117,
+        "decay_time_ms": 167.07482993197277,
+        "sustain_level": 0.03280444713588352,
+        "release_time_ms": 0.022675736961451247,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.0001358695652173913,
+          "decay_slope": -3.504893846497176e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_098",
+      "index": 15,
+      "filename": "segment_015_A#_mp_236.5Hz.wav",
+      "onset_time": 20.776054421768706,
+      "duration": 0.7524036281179178,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 236.47090807929385,
+        "note_name": "A#",
+        "octave": 3,
+        "cents_deviation": 24.991019170351514,
+        "confidence": 0.0009665300016563873,
+        "pitch_stability": 0.05354256329791049,
+        "harmonics": [
+          {
+            "frequency": 452.197265625,
+            "amplitude": 0.21748727560043335
+          },
+          {
+            "frequency": 710.595703125,
+            "amplitude": 0.5522206425666809
+          },
+          {
+            "frequency": 936.6943359375,
+            "amplitude": 1.0363062620162964
+          },
+          {
+            "frequency": 1184.326171875,
+            "amplitude": 77.27560424804688
+          },
+          {
+            "frequency": 1399.658203125,
+            "amplitude": 1.4935083389282227
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.13367274403572083,
+        "peak_amplitude": 1.0161159038543701,
+        "loudness_lufs": -11.941265461904385,
+        "dynamic_range_db": 53.56213606102803,
+        "dynamic_level": "mp",
+        "attack_time_ms": 164.7392290249433,
+        "decay_time_ms": 16.462585034013607,
+        "sustain_level": 0.02146913961723127,
+        "release_time_ms": 169.77324263038548,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00013764624913971095,
+          "decay_slope": -3.8359663436677695e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_110",
+      "index": 16,
+      "filename": "segment_016_G_mf_389.3Hz.wav",
+      "onset_time": 23.359274376417233,
+      "duration": 0.3982993197278937,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 389.31840095729456,
+        "note_name": "G",
+        "octave": 4,
+        "cents_deviation": -11.863586953325544,
+        "confidence": 0.04344476601207942,
+        "pitch_stability": 0.17965099020411163,
+        "harmonics": [
+          {
+            "frequency": 785.9619140625,
+            "amplitude": 0.7530149817466736
+          },
+          {
+            "frequency": 1184.326171875,
+            "amplitude": 106.85494232177734
+          },
+          {
+            "frequency": 1528.857421875,
+            "amplitude": 8.597376823425293
+          },
+          {
+            "frequency": 1937.98828125,
+            "amplitude": 1.7036045789718628
+          },
+          {
+            "frequency": 2304.052734375,
+            "amplitude": 2.864342212677002
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.23070070147514343,
+        "peak_amplitude": 1.0759625434875488,
+        "loudness_lufs": -8.378174461134895,
+        "dynamic_range_db": 57.30520344296104,
+        "dynamic_level": "mf",
+        "attack_time_ms": 91.65532879818595,
+        "decay_time_ms": 24.217687074829932,
+        "sustain_level": 0.07341825696148299,
+        "release_time_ms": 85.46485260770976,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00024740227610094015,
+          "decay_slope": -7.272372385857981e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_115",
+      "index": 17,
+      "filename": "segment_017_D_pp_295.3Hz.wav",
+      "onset_time": 24.3112925170068,
+      "duration": 0.4447392290249468,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 295.28163286264027,
+        "note_name": "D",
+        "octave": 4,
+        "cents_deviation": 9.505716223630145,
+        "confidence": 0.0032523488502487117,
+        "pitch_stability": 0.08277491331272255,
+        "harmonics": [
+          {
+            "frequency": 592.1630859375,
+            "amplitude": 0.042021024972200394
+          },
+          {
+            "frequency": 882.861328125,
+            "amplitude": 0.014082090929150581
+          },
+          {
+            "frequency": 1184.326171875,
+            "amplitude": 0.5521449446678162
+          },
+          {
+            "frequency": 1453.4912109375,
+            "amplitude": 0.01877654530107975
+          },
+          {
+            "frequency": 1765.72265625,
+            "amplitude": 0.008408070541918278
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.003697396256029606,
+        "peak_amplitude": 0.009250338189303875,
+        "loudness_lufs": -57.48464783863795,
+        "dynamic_range_db": 29.768337083077547,
+        "dynamic_level": "pp",
+        "attack_time_ms": 405.6916099773243,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.6030843452204507,
+        "release_time_ms": 17.687074829931973,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 5.589402492873512e-05,
+          "decay_slope": -0.0003961614980482684
+        }
+      }
+    },
+    {
+      "segment_id": "segment_116",
+      "index": 18,
+      "filename": "segment_018_C#_pp_282.6Hz.wav",
+      "onset_time": 24.706031746031748,
+      "duration": 0.351859410430837,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 282.60051129891315,
+        "note_name": "C#",
+        "octave": 4,
+        "cents_deviation": 33.51266256846284,
+        "confidence": 0.05977030703868398,
+        "pitch_stability": 0.20628612284803513,
+        "harmonics": [
+          {
+            "frequency": 538.330078125,
+            "amplitude": 0.06137413531541824
+          },
+          {
+            "frequency": 829.0283203125,
+            "amplitude": 0.010302118957042694
+          },
+          {
+            "frequency": 1141.259765625,
+            "amplitude": 0.012709704227745533
+          },
+          {
+            "frequency": 1399.658203125,
+            "amplitude": 0.013126182369887829
+          },
+          {
+            "frequency": 1668.8232421875,
+            "amplitude": 0.026622086763381958
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0034232079051434994,
+        "peak_amplitude": 0.008713718503713608,
+        "loudness_lufs": -61.01165119647927,
+        "dynamic_range_db": 27.353101472795046,
+        "dynamic_level": "pp",
+        "attack_time_ms": 308.3673469387755,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.7144304257917109,
+        "release_time_ms": 11.723356009070296,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 7.353481873667182e-05,
+          "decay_slope": -0.0004143510659304364
+        }
+      }
+    },
+    {
+      "segment_id": "segment_120",
+      "index": 19,
+      "filename": "segment_019_B_pp_240.6Hz.wav",
+      "onset_time": 25.611609977324264,
+      "duration": 0.38668934240362773,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 240.64240673207308,
+        "note_name": "B",
+        "octave": 3,
+        "cents_deviation": -44.73514730316044,
+        "confidence": 0.03222924567802342,
+        "pitch_stability": 0.14388331557267175,
+        "harmonics": [
+          {
+            "frequency": 462.9638671875,
+            "amplitude": 0.05613843351602554
+          },
+          {
+            "frequency": 699.8291015625,
+            "amplitude": 0.02715204656124115
+          },
+          {
+            "frequency": 979.7607421875,
+            "amplitude": 0.010559366084635258
+          },
+          {
+            "frequency": 1195.0927734375,
+            "amplitude": 0.010646689683198929
+          },
+          {
+            "frequency": 1453.4912109375,
+            "amplitude": 0.018772345036268234
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.002252905862405896,
+        "peak_amplitude": 0.005894906353205442,
+        "loudness_lufs": -64.28129060562749,
+        "dynamic_range_db": 29.888603308532193,
+        "dynamic_level": "pp",
+        "attack_time_ms": 187.3922902494331,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.3312510592202567,
+        "release_time_ms": 0.47619047619047616,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00012100677637947725,
+          "decay_slope": -7.981700502199139e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_121",
+      "index": 20,
+      "filename": "segment_020_C#_mf_555.9Hz.wav",
+      "onset_time": 25.94829931972789,
+      "duration": 0.38668934240362773,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 555.9291782443531,
+        "note_name": "C#",
+        "octave": 5,
+        "cents_deviation": 4.877097146072273,
+        "confidence": 0.029952368032632373,
+        "pitch_stability": 0.10946080916063262,
+        "harmonics": [
+          {
+            "frequency": 1162.79296875,
+            "amplitude": 40.004364013671875
+          },
+          {
+            "frequency": 1658.056640625,
+            "amplitude": 14.262392044067383
+          },
+          {
+            "frequency": 2271.7529296875,
+            "amplitude": 2.833540201187134
+          },
+          {
+            "frequency": 2767.0166015625,
+            "amplitude": 5.366647720336914
+          },
+          {
+            "frequency": 3369.9462890625,
+            "amplitude": 16.711606979370117
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.30131301283836365,
+        "peak_amplitude": 1.1083780527114868,
+        "loudness_lufs": -6.553576209647833,
+        "dynamic_range_db": 71.09524330345226,
+        "dynamic_level": "mf",
+        "attack_time_ms": 146.30385487528343,
+        "decay_time_ms": 75.39682539682539,
+        "sustain_level": 0.18313761435172943,
+        "release_time_ms": 72.78911564625851,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00015499070055796651,
+          "decay_slope": -9.077020440280786e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_122",
+      "index": 21,
+      "filename": "segment_021_G_p_395.1Hz.wav",
+      "onset_time": 26.284988662131518,
+      "duration": 0.3286394557823158,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 395.1398371204775,
+        "note_name": "G",
+        "octave": 4,
+        "cents_deviation": 13.831735048157334,
+        "confidence": 0.02860625429757407,
+        "pitch_stability": 0.20670842159711328,
+        "harmonics": [
+          {
+            "frequency": 764.4287109375,
+            "amplitude": 0.07355768233537674
+          },
+          {
+            "frequency": 1184.326171875,
+            "amplitude": 21.251413345336914
+          },
+          {
+            "frequency": 1614.990234375,
+            "amplitude": 0.26323240995407104
+          },
+          {
+            "frequency": 1959.521484375,
+            "amplitude": 0.06858783215284348
+          },
+          {
+            "frequency": 2390.185546875,
+            "amplitude": 0.0714203268289566
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.03555801138281822,
+        "peak_amplitude": 0.2008410394191742,
+        "loudness_lufs": -25.0931427349101,
+        "dynamic_range_db": 35.76911948674897,
+        "dynamic_level": "p",
+        "attack_time_ms": 0.9523809523809523,
+        "decay_time_ms": 323.015873015873,
+        "sustain_level": 0.15017049391801654,
+        "release_time_ms": 4.6938775510204085,
+        "envelope_shape": {
+          "type": "generic",
+          "attack_slope": 0.023809523809523808,
+          "decay_slope": -6.311699382913498e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_128",
+      "index": 22,
+      "filename": "segment_022_B_pp_250.1Hz.wav",
+      "onset_time": 27.353106575963718,
+      "duration": 0.37507936507936535,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 250.11589323779685,
+        "note_name": "B",
+        "octave": 3,
+        "cents_deviation": 22.1118526787091,
+        "confidence": 0.03227562169614118,
+        "pitch_stability": 0.13558267853599176,
+        "harmonics": [
+          {
+            "frequency": 484.4970703125,
+            "amplitude": 0.054748471826314926
+          },
+          {
+            "frequency": 753.662109375,
+            "amplitude": 0.024719662964344025
+          },
+          {
+            "frequency": 990.52734375,
+            "amplitude": 0.016928913071751595
+          },
+          {
+            "frequency": 1259.6923828125,
+            "amplitude": 0.011498788371682167
+          },
+          {
+            "frequency": 1496.5576171875,
+            "amplitude": 0.015327532775700092
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0023276950232684612,
+        "peak_amplitude": 0.006058826111257076,
+        "loudness_lufs": -63.73604973875234,
+        "dynamic_range_db": 27.443837633111468,
+        "dynamic_level": "pp",
+        "attack_time_ms": 267.4829931972789,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.21467042831278232,
+        "release_time_ms": 0.8390022675736961,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 8.477449983045101e-05,
+          "decay_slope": -0.00016912027462554242
+        }
+      }
+    },
+    {
+      "segment_id": "segment_131",
+      "index": 23,
+      "filename": "segment_023_C_pp_262.0Hz.wav",
+      "onset_time": 28.0497052154195,
+      "duration": 0.31702947845804985,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 261.9573259093662,
+        "note_name": "C",
+        "octave": 4,
+        "cents_deviation": 2.1939423481805775,
+        "confidence": 0.056354304942150345,
+        "pitch_stability": 0.19967004519479079,
+        "harmonics": [
+          {
+            "frequency": 538.330078125,
+            "amplitude": 0.0427442230284214
+          },
+          {
+            "frequency": 764.4287109375,
+            "amplitude": 0.026180459186434746
+          },
+          {
+            "frequency": 1033.59375,
+            "amplitude": 0.014244800433516502
+          },
+          {
+            "frequency": 1335.05859375,
+            "amplitude": 0.010842999443411827
+          },
+          {
+            "frequency": 1550.390625,
+            "amplitude": 0.012306577526032925
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0020039051305502653,
+        "peak_amplitude": 0.0045830486342310905,
+        "loudness_lufs": -64.86033969636745,
+        "dynamic_range_db": 29.52137628455789,
+        "dynamic_level": "pp",
+        "attack_time_ms": 275.374149659864,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.18178936045012942,
+        "release_time_ms": 5.124716553287982,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 8.234519104084322e-05,
+          "decay_slope": -0.00045463842238276157
+        }
+      }
+    },
+    {
+      "segment_id": "segment_134",
+      "index": 24,
+      "filename": "segment_024_C#_pp_280.5Hz.wav",
+      "onset_time": 28.723083900226758,
+      "duration": 0.3460544217687058,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 280.52635887027185,
+        "note_name": "C#",
+        "octave": 4,
+        "cents_deviation": 20.759374681839127,
+        "confidence": 0.06628796689037082,
+        "pitch_stability": 0.2330930750118503,
+        "harmonics": [
+          {
+            "frequency": 559.86328125,
+            "amplitude": 0.04944014549255371
+          },
+          {
+            "frequency": 818.26171875,
+            "amplitude": 0.01936403661966324
+          },
+          {
+            "frequency": 1098.193359375,
+            "amplitude": 0.01080720592290163
+          },
+          {
+            "frequency": 1399.658203125,
+            "amplitude": 0.01566435769200325
+          },
+          {
+            "frequency": 1668.8232421875,
+            "amplitude": 0.010580372996628284
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0028029759414494038,
+        "peak_amplitude": 0.007276608608663082,
+        "loudness_lufs": -62.472847331048506,
+        "dynamic_range_db": 29.866476607389295,
+        "dynamic_level": "pp",
+        "attack_time_ms": 99.54648526077098,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.2851564311456569,
+        "release_time_ms": 1.8140589569160999,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00022779043280182233,
+          "decay_slope": -7.738196227776033e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_136",
+      "index": 25,
+      "filename": "segment_025_C#_p_556.0Hz.wav",
+      "onset_time": 29.164263038548754,
+      "duration": 0.43312925170068084,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 555.9779794694979,
+        "note_name": "C#",
+        "octave": 5,
+        "cents_deviation": 5.029063687657853,
+        "confidence": 0.10761943055002968,
+        "pitch_stability": 0.2875944399320213,
+        "harmonics": [
+          {
+            "frequency": 1162.79296875,
+            "amplitude": 2.155850410461426
+          },
+          {
+            "frequency": 1658.056640625,
+            "amplitude": 27.224567413330078
+          },
+          {
+            "frequency": 2174.853515625,
+            "amplitude": 0.11849390715360641
+          },
+          {
+            "frequency": 2810.0830078125,
+            "amplitude": 0.040384478867053986
+          },
+          {
+            "frequency": 3369.9462890625,
+            "amplitude": 1.5674047470092773
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.02950122393667698,
+        "peak_amplitude": 0.16449719667434692,
+        "loudness_lufs": -25.347086788461894,
+        "dynamic_range_db": 35.181322175111404,
+        "dynamic_level": "p",
+        "attack_time_ms": 3.696145124716553,
+        "decay_time_ms": 388.3673469387755,
+        "sustain_level": 0.13382789026415398,
+        "release_time_ms": 41.06575963718821,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.006134969325153374,
+          "decay_slope": -4.9432115076959765e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_140",
+      "index": 26,
+      "filename": "segment_026_E_pp_334.8Hz.wav",
+      "onset_time": 30.035011337868482,
+      "duration": 0.32863945578231224,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 334.754698667934,
+        "note_name": "E",
+        "octave": 4,
+        "cents_deviation": 26.720938194902466,
+        "confidence": 0.00778477532631522,
+        "pitch_stability": 0.10295909541112379,
+        "harmonics": [
+          {
+            "frequency": 656.7626953125,
+            "amplitude": 0.06058216467499733
+          },
+          {
+            "frequency": 979.7607421875,
+            "amplitude": 0.028907638043165207
+          },
+          {
+            "frequency": 1313.525390625,
+            "amplitude": 0.03755252808332443
+          },
+          {
+            "frequency": 1658.056640625,
+            "amplitude": 0.12450958788394928
+          },
+          {
+            "frequency": 1981.0546875,
+            "amplitude": 0.04426492750644684
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.004501117393374443,
+        "peak_amplitude": 0.018162276595830917,
+        "loudness_lufs": -55.54830730411412,
+        "dynamic_range_db": 26.836544986332154,
+        "dynamic_level": "pp",
+        "attack_time_ms": 197.16553287981858,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.22524222680812536,
+        "release_time_ms": 22.267573696145124,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00011500862564692352,
+          "decay_slope": -0.0001647054640884426
+        }
+      }
+    },
+    {
+      "segment_id": "segment_142",
+      "index": 27,
+      "filename": "segment_027_B_pp_249.6Hz.wav",
+      "onset_time": 30.476190476190474,
+      "duration": 0.3750793650793689,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 249.6387504442589,
+        "note_name": "B",
+        "octave": 3,
+        "cents_deviation": 18.806046071893512,
+        "confidence": 0.09579736868482773,
+        "pitch_stability": 0.29986380632954057,
+        "harmonics": [
+          {
+            "frequency": 484.4970703125,
+            "amplitude": 0.07107090204954147
+          },
+          {
+            "frequency": 732.12890625,
+            "amplitude": 0.024941368028521538
+          },
+          {
+            "frequency": 1012.060546875,
+            "amplitude": 0.017084166407585144
+          },
+          {
+            "frequency": 1227.392578125,
+            "amplitude": 0.015105970203876495
+          },
+          {
+            "frequency": 1496.5576171875,
+            "amplitude": 0.01750083640217781
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0029412144795060158,
+        "peak_amplitude": 0.009161973372101784,
+        "loudness_lufs": -61.97094029891487,
+        "dynamic_range_db": 29.982433605824408,
+        "dynamic_level": "pp",
+        "attack_time_ms": 0.9297052154195011,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.30077521912741645,
+        "release_time_ms": 0.022675736961451247,
+        "envelope_shape": {
+          "type": "generic",
+          "attack_slope": 0.024390243902439025,
+          "decay_slope": -2.8620041859879174e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_153",
+      "index": 28,
+      "filename": "segment_028_C#_pp_284.1Hz.wav",
+      "onset_time": 32.275736961451244,
+      "duration": 0.3518594104308477,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 284.13317895342954,
+        "note_name": "C#",
+        "octave": 4,
+        "cents_deviation": 42.87654173717819,
+        "confidence": 0.004567162172431436,
+        "pitch_stability": 0.05625675349898796,
+        "harmonics": [
+          {
+            "frequency": 581.396484375,
+            "amplitude": 0.05159428343176842
+          },
+          {
+            "frequency": 872.0947265625,
+            "amplitude": 0.028019530698657036
+          },
+          {
+            "frequency": 1162.79296875,
+            "amplitude": 0.03955218195915222
+          },
+          {
+            "frequency": 1442.724609375,
+            "amplitude": 0.027607928961515427
+          },
+          {
+            "frequency": 1722.65625,
+            "amplitude": 0.021883178502321243
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0029791390988975763,
+        "peak_amplitude": 0.008602172136306763,
+        "loudness_lufs": -61.049562222026914,
+        "dynamic_range_db": 31.844383386028984,
+        "dynamic_level": "pp",
+        "attack_time_ms": 153.51473922902494,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.21242395409498738,
+        "release_time_ms": 0.31746031746031744,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00014771048744460856,
+          "decay_slope": -9.194509309993599e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_167",
+      "index": 29,
+      "filename": "segment_029_G_pp_390.4Hz.wav",
+      "onset_time": 34.72544217687075,
+      "duration": 0.3402494331065782,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 390.432638417661,
+        "note_name": "G",
+        "octave": 4,
+        "cents_deviation": -6.915835566798023,
+        "confidence": 0.020057739322035705,
+        "pitch_stability": 0.16534851261762964,
+        "harmonics": [
+          {
+            "frequency": 764.4287109375,
+            "amplitude": 0.0503510944545269
+          },
+          {
+            "frequency": 1184.326171875,
+            "amplitude": 0.6466968059539795
+          },
+          {
+            "frequency": 1550.390625,
+            "amplitude": 0.026690615341067314
+          },
+          {
+            "frequency": 1937.98828125,
+            "amplitude": 0.015310709364712238
+          },
+          {
+            "frequency": 2314.8193359375,
+            "amplitude": 0.008898357860744
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.006738412659615278,
+        "peak_amplitude": 0.015095756389200687,
+        "loudness_lufs": -54.17162655463139,
+        "dynamic_range_db": 27.23934369597021,
+        "dynamic_level": "pp",
+        "attack_time_ms": 173.6281179138322,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.5016372649114322,
+        "release_time_ms": 65.23809523809524,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.0001305994514823038,
+          "decay_slope": -0.0001325275715238498
+        }
+      }
+    },
+    {
+      "segment_id": "segment_183",
+      "index": 30,
+      "filename": "segment_030_B_p_241.0Hz.wav",
+      "onset_time": 37.50022675736962,
+      "duration": 0.3286394557823158,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 240.97339699510619,
+        "note_name": "B",
+        "octave": 3,
+        "cents_deviation": -42.35556715212336,
+        "confidence": 0.9677590665526806,
+        "pitch_stability": 0.983765457312562,
+        "harmonics": [
+          {
+            "frequency": 506.0302734375,
+            "amplitude": 0.12516245245933533
+          },
+          {
+            "frequency": 732.12890625,
+            "amplitude": 0.3227141797542572
+          },
+          {
+            "frequency": 968.994140625,
+            "amplitude": 27.65753746032715
+          },
+          {
+            "frequency": 1184.326171875,
+            "amplitude": 14.309268951416016
+          },
+          {
+            "frequency": 1431.9580078125,
+            "amplitude": 0.22803068161010742
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.03392805904150009,
+        "peak_amplitude": 0.14676854014396667,
+        "loudness_lufs": -25.534291130366146,
+        "dynamic_range_db": 30.761538001493424,
+        "dynamic_level": "p",
+        "attack_time_ms": 34.852607709750565,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.26006003493342444,
+        "release_time_ms": 0.6575963718820862,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.0006506180871828237,
+          "decay_slope": -6.243080355298553e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_190",
+      "index": 31,
+      "filename": "segment_031_D_mp_586.8Hz.wav",
+      "onset_time": 38.70766439909297,
+      "duration": 0.5027891156462658,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 586.754667388713,
+        "note_name": "D",
+        "octave": 5,
+        "cents_deviation": -1.695333102047769,
+        "confidence": 0.11077143528128063,
+        "pitch_stability": 0.2879176712925044,
+        "harmonics": [
+          {
+            "frequency": 1184.326171875,
+            "amplitude": 78.70305633544922
+          },
+          {
+            "frequency": 1733.4228515625,
+            "amplitude": 1.1590242385864258
+          },
+          {
+            "frequency": 2357.8857421875,
+            "amplitude": 0.3653866946697235
+          },
+          {
+            "frequency": 2896.2158203125,
+            "amplitude": 0.10314414650201797
+          },
+          {
+            "frequency": 3531.4453125,
+            "amplitude": 0.36088964343070984
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.11217839270830154,
+        "peak_amplitude": 0.790938675403595,
+        "loudness_lufs": -13.31910679084515,
+        "dynamic_range_db": 44.027369147534195,
+        "dynamic_level": "mp",
+        "attack_time_ms": 149.297052154195,
+        "decay_time_ms": 23.401360544217688,
+        "sustain_level": 0.057997830518542605,
+        "release_time_ms": 119.9546485260771,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00015188335358444713,
+          "decay_slope": -6.300154873431857e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_209",
+      "index": 32,
+      "filename": "segment_032_B_mp_240.5Hz.wav",
+      "onset_time": 42.21387755102041,
+      "duration": 0.46795918367347156,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 240.47122081866954,
+        "note_name": "B",
+        "octave": 3,
+        "cents_deviation": -45.96713441614355,
+        "confidence": 0.029922544887838076,
+        "pitch_stability": 0.19774133847357583,
+        "harmonics": [
+          {
+            "frequency": 495.263671875,
+            "amplitude": 0.4219440221786499
+          },
+          {
+            "frequency": 732.12890625,
+            "amplitude": 1.4718652963638306
+          },
+          {
+            "frequency": 968.994140625,
+            "amplitude": 40.992279052734375
+          },
+          {
+            "frequency": 1184.326171875,
+            "amplitude": 23.62753677368164
+          },
+          {
+            "frequency": 1442.724609375,
+            "amplitude": 0.9976804852485657
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.08789623528718948,
+        "peak_amplitude": 0.8915700912475586,
+        "loudness_lufs": -16.067371332810936,
+        "dynamic_range_db": 50.523197532577235,
+        "dynamic_level": "mp",
+        "attack_time_ms": 152.6530612244898,
+        "decay_time_ms": 19.705215419501133,
+        "sustain_level": 0.0714859267174953,
+        "release_time_ms": 87.41496598639456,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00014854426619132502,
+          "decay_slope": -6.986513075903208e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_213",
+      "index": 33,
+      "filename": "segment_033_D_pp_593.2Hz.wav",
+      "onset_time": 43.20072562358277,
+      "duration": 0.305419501133791,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 593.1635673253163,
+        "note_name": "D",
+        "octave": 5,
+        "cents_deviation": 17.11175806237719,
+        "confidence": 0.07277738407957875,
+        "pitch_stability": 0.1952767954638252,
+        "harmonics": [
+          {
+            "frequency": 1184.326171875,
+            "amplitude": 1.2973037958145142
+          },
+          {
+            "frequency": 1776.4892578125,
+            "amplitude": 0.016051368787884712
+          },
+          {
+            "frequency": 2400.9521484375,
+            "amplitude": 0.01414152979850769
+          },
+          {
+            "frequency": 2982.3486328125,
+            "amplitude": 0.007563840597867966
+          },
+          {
+            "frequency": 3520.6787109375,
+            "amplitude": 0.007857272401452065
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.00678884144872427,
+        "peak_amplitude": 0.01896127313375473,
+        "loudness_lufs": -50.941757637592374,
+        "dynamic_range_db": 31.93404044202662,
+        "dynamic_level": "pp",
+        "attack_time_ms": 44.467120181405896,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.2506031553451159,
+        "release_time_ms": 0.6575963718820862,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.0005099439061703213,
+          "decay_slope": -7.24289339833557e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_215",
+      "index": 34,
+      "filename": "segment_034_G_mf_391.2Hz.wav",
+      "onset_time": 43.68834467120181,
+      "duration": 0.4099092970521596,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 391.2007287748896,
+        "note_name": "G",
+        "octave": 4,
+        "cents_deviation": -3.5133590016236838,
+        "confidence": 0.04259199388418524,
+        "pitch_stability": 0.24473021789137353,
+        "harmonics": [
+          {
+            "frequency": 807.4951171875,
+            "amplitude": 0.9018366932868958
+          },
+          {
+            "frequency": 1184.326171875,
+            "amplitude": 129.1171112060547
+          },
+          {
+            "frequency": 1528.857421875,
+            "amplitude": 3.457191228866577
+          },
+          {
+            "frequency": 1991.8212890625,
+            "amplitude": 1.4461320638656616
+          },
+          {
+            "frequency": 2336.3525390625,
+            "amplitude": 1.0490630865097046
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.18168912827968597,
+        "peak_amplitude": 1.0113725662231445,
+        "loudness_lufs": -9.242827212798618,
+        "dynamic_range_db": 56.13480367171733,
+        "dynamic_level": "mf",
+        "attack_time_ms": 105.75963718820861,
+        "decay_time_ms": 15.578231292517007,
+        "sustain_level": 0.060071954853435354,
+        "release_time_ms": 90.90702947845806,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.0002144082332761578,
+          "decay_slope": -7.306033572527239e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_221",
+      "index": 35,
+      "filename": "segment_035_D_pp_295.2Hz.wav",
+      "onset_time": 44.802902494331065,
+      "duration": 0.37507936507937245,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 295.1675377137276,
+        "note_name": "D",
+        "octave": 4,
+        "cents_deviation": 8.836647931446251,
+        "confidence": 0.10303778301165155,
+        "pitch_stability": 0.3087566240325388,
+        "harmonics": [
+          {
+            "frequency": 570.6298828125,
+            "amplitude": 0.05328287184238434
+          },
+          {
+            "frequency": 904.39453125,
+            "amplitude": 0.015289101749658585
+          },
+          {
+            "frequency": 1184.326171875,
+            "amplitude": 0.3347755968570709
+          },
+          {
+            "frequency": 1453.4912109375,
+            "amplitude": 0.01826297678053379
+          },
+          {
+            "frequency": 1754.9560546875,
+            "amplitude": 0.017406515777111053
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.003065319499000907,
+        "peak_amplitude": 0.007456890307366848,
+        "loudness_lufs": -60.11955962480897,
+        "dynamic_range_db": 26.530194666676348,
+        "dynamic_level": "pp",
+        "attack_time_ms": 229.00226757369614,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.2918062771441814,
+        "release_time_ms": 0.13605442176870747,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 9.901970492127933e-05,
+          "decay_slope": -0.0001056407419472475
+        }
+      }
+    },
+    {
+      "segment_id": "segment_224",
+      "index": 36,
+      "filename": "segment_036_B_pp_123.6Hz.wav",
+      "onset_time": 45.44145124716553,
+      "duration": 0.8626984126984212,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 123.57735229483863,
+        "note_name": "B",
+        "octave": 2,
+        "cents_deviation": 1.4930136261963156,
+        "confidence": 0.0002104645485852897,
+        "pitch_stability": 0.058607456183238274,
+        "harmonics": [
+          {
+            "frequency": 236.865234375,
+            "amplitude": 0.12162437289953232
+          },
+          {
+            "frequency": 376.8310546875,
+            "amplitude": 0.0397125706076622
+          },
+          {
+            "frequency": 495.263671875,
+            "amplitude": 0.04304572939872742
+          },
+          {
+            "frequency": 613.6962890625,
+            "amplitude": 0.015079773962497711
+          },
+          {
+            "frequency": 753.662109375,
+            "amplitude": 0.011359232477843761
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.002002677647396922,
+        "peak_amplitude": 0.008282613009214401,
+        "loudness_lufs": -65.34657039101894,
+        "dynamic_range_db": 76.46292434895982,
+        "dynamic_level": "pp",
+        "attack_time_ms": 682.3809523809524,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.6375340878229612,
+        "release_time_ms": 168.20861678004533,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 3.323031934336889e-05,
+          "decay_slope": -9.505243689141753e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_229",
+      "index": 37,
+      "filename": "segment_037_C_pp_533.2Hz.wav",
+      "onset_time": 46.95074829931973,
+      "duration": 0.36346938775511006,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 533.1783555872832,
+        "note_name": "C",
+        "octave": 5,
+        "cents_deviation": 32.53762987123707,
+        "confidence": 0.06826658213722639,
+        "pitch_stability": 0.1742703021031827,
+        "harmonics": [
+          {
+            "frequency": 1065.8935546875,
+            "amplitude": 3.148193597793579
+          },
+          {
+            "frequency": 1593.45703125,
+            "amplitude": 0.014840870164334774
+          },
+          {
+            "frequency": 2088.720703125,
+            "amplitude": 0.009593678638339043
+          },
+          {
+            "frequency": 2670.1171875,
+            "amplitude": 0.010305228643119335
+          },
+          {
+            "frequency": 3154.6142578125,
+            "amplitude": 0.02271122857928276
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.004142880439758301,
+        "peak_amplitude": 0.015451892279088497,
+        "loudness_lufs": -45.20550195927028,
+        "dynamic_range_db": 29.77858240476671,
+        "dynamic_level": "pp",
+        "attack_time_ms": 32.10884353741496,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.3353129347683616,
+        "release_time_ms": 0.18140589569160998,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.0007062146892655367,
+          "decay_slope": -4.460774294716406e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_230",
+      "index": 38,
+      "filename": "segment_038_F_pp_355.7Hz.wav",
+      "onset_time": 47.26421768707483,
+      "duration": 0.3170294784580534,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 355.72239477102653,
+        "note_name": "F",
+        "octave": 4,
+        "cents_deviation": 31.897935352975804,
+        "confidence": 0.010795500330706023,
+        "pitch_stability": 0.10954400556628659,
+        "harmonics": [
+          {
+            "frequency": 678.2958984375,
+            "amplitude": 0.051231060177087784
+          },
+          {
+            "frequency": 1065.8935546875,
+            "amplitude": 0.5377297401428223
+          },
+          {
+            "frequency": 1388.8916015625,
+            "amplitude": 0.02008124813437462
+          },
+          {
+            "frequency": 1765.72265625,
+            "amplitude": 0.010396203026175499
+          },
+          {
+            "frequency": 2164.0869140625,
+            "amplitude": 0.008132784627377987
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.004874025005847216,
+        "peak_amplitude": 0.012413108721375465,
+        "loudness_lufs": -56.395308717214434,
+        "dynamic_range_db": 27.93601124534275,
+        "dynamic_level": "pp",
+        "attack_time_ms": 127.52834467120181,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.2568111980072642,
+        "release_time_ms": 0.7709750566893424,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00017780938833570413,
+          "decay_slope": -0.00010208839635928344
+        }
+      }
+    },
+    {
+      "segment_id": "segment_233",
+      "index": 39,
+      "filename": "segment_039_C#_pp_274.6Hz.wav",
+      "onset_time": 47.91437641723356,
+      "duration": 0.6188888888888897,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 274.558750662376,
+        "note_name": "C#",
+        "octave": 4,
+        "cents_deviation": -16.466356657775627,
+        "confidence": 0.034968622238025236,
+        "pitch_stability": 0.13322524473518563,
+        "harmonics": [
+          {
+            "frequency": 527.5634765625,
+            "amplitude": 0.04245062172412872
+          },
+          {
+            "frequency": 796.728515625,
+            "amplitude": 0.020154543220996857
+          },
+          {
+            "frequency": 1076.66015625,
+            "amplitude": 0.012169712223112583
+          },
+          {
+            "frequency": 1388.8916015625,
+            "amplitude": 0.013205798342823982
+          },
+          {
+            "frequency": 1668.8232421875,
+            "amplitude": 0.0116335554048419
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.002886581001803279,
+        "peak_amplitude": 0.009276741184294224,
+        "loudness_lufs": -62.381803915736086,
+        "dynamic_range_db": 30.170354002945285,
+        "dynamic_level": "pp",
+        "attack_time_ms": 527.8004535147393,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.4091281626270204,
+        "release_time_ms": 15.351473922902494,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 4.296270836913559e-05,
+          "decay_slope": -0.00022393090976771454
+        }
+      }
+    },
+    {
+      "segment_id": "segment_246",
+      "index": 40,
+      "filename": "segment_040_D_pp_288.4Hz.wav",
+      "onset_time": 50.70077097505669,
+      "duration": 0.3286394557823158,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 288.4460272620351,
+        "note_name": "D",
+        "octave": 4,
+        "cents_deviation": -31.042556368452345,
+        "confidence": 0.06974253948638688,
+        "pitch_stability": 0.24834833566472597,
+        "harmonics": [
+          {
+            "frequency": 581.396484375,
+            "amplitude": 0.04965345561504364
+          },
+          {
+            "frequency": 839.794921875,
+            "amplitude": 0.016050910577178
+          },
+          {
+            "frequency": 1173.5595703125,
+            "amplitude": 0.011814083904027939
+          },
+          {
+            "frequency": 1421.19140625,
+            "amplitude": 0.013444087468087673
+          },
+          {
+            "frequency": 1711.8896484375,
+            "amplitude": 0.011091175489127636
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.003114983206614852,
+        "peak_amplitude": 0.007286248728632927,
+        "loudness_lufs": -61.929296348196594,
+        "dynamic_range_db": 24.346054668614464,
+        "dynamic_level": "pp",
+        "attack_time_ms": 289.70521541950114,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.4467971296072469,
+        "release_time_ms": 0.20408163265306123,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 7.827175954915466e-05,
+          "decay_slope": -0.0003134610152469858
+        }
+      }
+    },
+    {
+      "segment_id": "segment_258",
+      "index": 41,
+      "filename": "segment_041_A#_pp_115.2Hz.wav",
+      "onset_time": 52.8021768707483,
+      "duration": 1.8727664399093058,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 115.15990631183044,
+        "note_name": "A#",
+        "octave": 2,
+        "cents_deviation": -20.638004125438414,
+        "confidence": 0.007894481597958282,
+        "pitch_stability": 0.13812028089326214,
+        "harmonics": [
+          {
+            "frequency": 236.865234375,
+            "amplitude": 0.07838638126850128
+          },
+          {
+            "frequency": 344.53125,
+            "amplitude": 0.015681331977248192
+          },
+          {
+            "frequency": 452.197265625,
+            "amplitude": 0.014770139940083027
+          },
+          {
+            "frequency": 570.6298828125,
+            "amplitude": 0.006930481642484665
+          },
+          {
+            "frequency": 689.0625,
+            "amplitude": 0.0041337888687849045
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0007772225653752685,
+        "peak_amplitude": 0.005227905698120594,
+        "loudness_lufs": -72.70208430876194,
+        "dynamic_range_db": 71.55878198667311,
+        "dynamic_level": "pp",
+        "attack_time_ms": 25.895691609977323,
+        "decay_time_ms": 941.3605442176871,
+        "sustain_level": 0.004929512214535312,
+        "release_time_ms": 0.022675736961451247,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.0008756567425569177,
+          "decay_slope": -9.340612979888133e-06
+        }
+      }
+    },
+    {
+      "segment_id": "segment_259",
+      "index": 42,
+      "filename": "segment_042_A_pp_112.9Hz.wav",
+      "onset_time": 54.6249433106576,
+      "duration": 0.4331292517006844,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 112.93657258285577,
+        "note_name": "A",
+        "octave": 2,
+        "cents_deviation": 45.61107624805949,
+        "confidence": 0.009107489016621922,
+        "pitch_stability": 0.1269881297029496,
+        "harmonics": [
+          {
+            "frequency": 236.865234375,
+            "amplitude": 0.000432189175626263
+          },
+          {
+            "frequency": 344.53125,
+            "amplitude": 0.00039581768214702606
+          },
+          {
+            "frequency": 462.9638671875,
+            "amplitude": 0.0004311996453907341
+          },
+          {
+            "frequency": 570.6298828125,
+            "amplitude": 0.00036446639569476247
+          },
+          {
+            "frequency": 667.529296875,
+            "amplitude": 0.00034560877247713506
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 1.0060694876301568e-05,
+        "peak_amplitude": 3.75762720068451e-05,
+        "loudness_lufs": -100.4452589155934,
+        "dynamic_range_db": 32.91925886698071,
+        "dynamic_level": "pp",
+        "attack_time_ms": 262.0861678004535,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.7682224328774555,
+        "release_time_ms": 78.36734693877551,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 8.652015919709292e-05,
+          "decay_slope": -8.46234916104649e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_261",
+      "index": 43,
+      "filename": "segment_043_E_mf_668.4Hz.wav",
+      "onset_time": 55.21705215419501,
+      "duration": 0.47956916099774105,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 668.437644455126,
+        "note_name": "E",
+        "octave": 5,
+        "cents_deviation": 23.947352367909858,
+        "confidence": 0.05442306070823039,
+        "pitch_stability": 0.18173126000607207,
+        "harmonics": [
+          {
+            "frequency": 1367.3583984375,
+            "amplitude": 0.5952693819999695
+          },
+          {
+            "frequency": 2002.587890625,
+            "amplitude": 120.2304916381836
+          },
+          {
+            "frequency": 2713.18359375,
+            "amplitude": 1.1317378282546997
+          },
+          {
+            "frequency": 3337.646484375,
+            "amplitude": 22.638290405273438
+          },
+          {
+            "frequency": 3962.109375,
+            "amplitude": 0.45874160528182983
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.22468754649162292,
+        "peak_amplitude": 1.010993242263794,
+        "loudness_lufs": -8.743731435539841,
+        "dynamic_range_db": 58.55044637847374,
+        "dynamic_level": "mf",
+        "attack_time_ms": 135.85034013605443,
+        "decay_time_ms": 23.015873015873016,
+        "sustain_level": 0.1617969960789916,
+        "release_time_ms": 113.92290249433107,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00016691704223001168,
+          "decay_slope": -6.26973974906299e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_268",
+      "index": 44,
+      "filename": "segment_044_C_mp_527.6Hz.wav",
+      "onset_time": 56.71473922902494,
+      "duration": 0.38668934240363484,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 527.6329792571173,
+        "note_name": "C",
+        "octave": 5,
+        "cents_deviation": 14.437461722487122,
+        "confidence": 0.06116208164292222,
+        "pitch_stability": 0.2362823713701229,
+        "harmonics": [
+          {
+            "frequency": 1065.8935546875,
+            "amplitude": 61.693450927734375
+          },
+          {
+            "frequency": 1582.6904296875,
+            "amplitude": 0.49814724922180176
+          },
+          {
+            "frequency": 2067.1875,
+            "amplitude": 0.49415621161460876
+          },
+          {
+            "frequency": 2616.2841796875,
+            "amplitude": 0.361998587846756
+          },
+          {
+            "frequency": 3122.314453125,
+            "amplitude": 14.159566879272461
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.07454352080821991,
+        "peak_amplitude": 0.3415448069572449,
+        "loudness_lufs": -16.843454278657642,
+        "dynamic_range_db": 54.694823099799166,
+        "dynamic_level": "mp",
+        "attack_time_ms": 193.4467120181406,
+        "decay_time_ms": 126.05442176870748,
+        "sustain_level": 0.15103550956900466,
+        "release_time_ms": 51.859410430839006,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00011721955222131051,
+          "decay_slope": -0.00011284138553242163
+        }
+      }
+    },
+    {
+      "segment_id": "segment_272",
+      "index": 45,
+      "filename": "segment_045_C_pp_538.1Hz.wav",
+      "onset_time": 57.62031746031746,
+      "duration": 0.3402494331065782,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 538.1070719499696,
+        "note_name": "C",
+        "octave": 5,
+        "cents_deviation": 48.46769215107685,
+        "confidence": 0.07093271812150215,
+        "pitch_stability": 0.18948167505212696,
+        "harmonics": [
+          {
+            "frequency": 1065.8935546875,
+            "amplitude": 0.6751687526702881
+          },
+          {
+            "frequency": 1561.1572265625,
+            "amplitude": 0.01390321645885706
+          },
+          {
+            "frequency": 2110.25390625,
+            "amplitude": 0.008772075176239014
+          },
+          {
+            "frequency": 2637.8173828125,
+            "amplitude": 0.006750791799277067
+          },
+          {
+            "frequency": 3197.6806640625,
+            "amplitude": 0.005336425267159939
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.005462815519422293,
+        "peak_amplitude": 0.012560428120195866,
+        "loudness_lufs": -55.19910570983251,
+        "dynamic_range_db": 27.055769330768946,
+        "dynamic_level": "pp",
+        "attack_time_ms": 176.6439909297052,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.42858504399154485,
+        "release_time_ms": 44.14965986394557,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00012836970474967908,
+          "decay_slope": -0.00011617906203304275
+        }
+      }
+    },
+    {
+      "segment_id": "segment_274",
+      "index": 46,
+      "filename": "segment_046_E_mf_669.9Hz.wav",
+      "onset_time": 58.10793650793651,
+      "duration": 0.46795918367347156,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 669.8690583882651,
+        "note_name": "E",
+        "octave": 5,
+        "cents_deviation": 27.65070897378621,
+        "confidence": 0.07426553531184667,
+        "pitch_stability": 0.22857758244724907,
+        "harmonics": [
+          {
+            "frequency": 1378.125,
+            "amplitude": 0.5653560757637024
+          },
+          {
+            "frequency": 2002.587890625,
+            "amplitude": 86.64376068115234
+          },
+          {
+            "frequency": 2713.18359375,
+            "amplitude": 0.8864036798477173
+          },
+          {
+            "frequency": 3283.8134765625,
+            "amplitude": 10.790088653564453
+          },
+          {
+            "frequency": 3962.109375,
+            "amplitude": 0.3009801208972931
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.18004721403121948,
+        "peak_amplitude": 0.9604297876358032,
+        "loudness_lufs": -10.99238376132373,
+        "dynamic_range_db": 50.68591280202604,
+        "dynamic_level": "mf",
+        "attack_time_ms": 122.94784580498866,
+        "decay_time_ms": 72.90249433106575,
+        "sustain_level": 0.1891488646340282,
+        "release_time_ms": 110.68027210884354,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00018443378827001107,
+          "decay_slope": -6.146810959303385e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_281",
+      "index": 47,
+      "filename": "segment_047_F_pp_691.7Hz.wav",
+      "onset_time": 59.43147392290249,
+      "duration": 0.3286394557823229,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 691.6745908525451,
+        "note_name": "F",
+        "octave": 5,
+        "cents_deviation": -16.892077712633835,
+        "confidence": 0.07518515789447386,
+        "pitch_stability": 0.23177798974004216,
+        "harmonics": [
+          {
+            "frequency": 1442.724609375,
+            "amplitude": 0.014960002154111862
+          },
+          {
+            "frequency": 2056.4208984375,
+            "amplitude": 0.009581553749740124
+          },
+          {
+            "frequency": 2734.716796875,
+            "amplitude": 0.006352907512336969
+          },
+          {
+            "frequency": 3477.6123046875,
+            "amplitude": 0.00438604736700654
+          },
+          {
+            "frequency": 4102.0751953125,
+            "amplitude": 0.0058079669252038
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.003029734594747424,
+        "peak_amplitude": 0.00862907711416483,
+        "loudness_lufs": -55.71099106891433,
+        "dynamic_range_db": 28.22677711416944,
+        "dynamic_level": "pp",
+        "attack_time_ms": 195.03401360544217,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.489300736425767,
+        "release_time_ms": 18.798185941043084,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.0001162655505173817,
+          "decay_slope": -0.00015266966231080104
+        }
+      }
+    },
+    {
+      "segment_id": "segment_288",
+      "index": 48,
+      "filename": "segment_048_F_pp_353.6Hz.wav",
+      "onset_time": 60.70857142857143,
+      "duration": 0.3170294784580534,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 353.62101093506476,
+        "note_name": "F",
+        "octave": 4,
+        "cents_deviation": 21.64056815926143,
+        "confidence": 0.03264513798515335,
+        "pitch_stability": 0.13789787228697656,
+        "harmonics": [
+          {
+            "frequency": 678.2958984375,
+            "amplitude": 0.044961392879486084
+          },
+          {
+            "frequency": 1065.8935546875,
+            "amplitude": 0.2272171825170517
+          },
+          {
+            "frequency": 1442.724609375,
+            "amplitude": 0.020888356491923332
+          },
+          {
+            "frequency": 1733.4228515625,
+            "amplitude": 0.014940869994461536
+          },
+          {
+            "frequency": 2121.0205078125,
+            "amplitude": 0.01286613754928112
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.004994385410100222,
+        "peak_amplitude": 0.010121111758053303,
+        "loudness_lufs": -57.75579283580808,
+        "dynamic_range_db": 25.12849014672867,
+        "dynamic_level": "pp",
+        "attack_time_ms": 73.90022675736961,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.6959751914754231,
+        "release_time_ms": 49.614512471655324,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.0003068425897514575,
+          "decay_slope": -6.21633562471963e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_293",
+      "index": 49,
+      "filename": "segment_049_E_mp_669.5Hz.wav",
+      "onset_time": 61.56770975056689,
+      "duration": 0.38668934240363484,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 669.5344578288755,
+        "note_name": "E",
+        "octave": 5,
+        "cents_deviation": 26.785739028152022,
+        "confidence": 0.07277089742878186,
+        "pitch_stability": 0.21330747736744538,
+        "harmonics": [
+          {
+            "frequency": 1378.125,
+            "amplitude": 0.4788731336593628
+          },
+          {
+            "frequency": 2002.587890625,
+            "amplitude": 61.430206298828125
+          },
+          {
+            "frequency": 2713.18359375,
+            "amplitude": 0.49622249603271484
+          },
+          {
+            "frequency": 3283.8134765625,
+            "amplitude": 6.178823947906494
+          },
+          {
+            "frequency": 3951.3427734375,
+            "amplitude": 0.17819546163082123
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.13814067840576172,
+        "peak_amplitude": 0.7048914432525635,
+        "loudness_lufs": -13.666042752466591,
+        "dynamic_range_db": 62.66882611087368,
+        "dynamic_level": "mp",
+        "attack_time_ms": 138.29931972789117,
+        "decay_time_ms": 95.60090702947846,
+        "sustain_level": 0.27163427768637355,
+        "release_time_ms": 111.45124716553288,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00016396130513198886,
+          "decay_slope": -8.206492181382488e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_303",
+      "index": 50,
+      "filename": "segment_050_F_pp_356.5Hz.wav",
+      "onset_time": 63.43691609977324,
+      "duration": 0.305419501133791,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 356.5274676065962,
+        "note_name": "F",
+        "octave": 4,
+        "cents_deviation": 35.81164645946675,
+        "confidence": 0.02321121387099158,
+        "pitch_stability": 0.16192435430455276,
+        "harmonics": [
+          {
+            "frequency": 678.2958984375,
+            "amplitude": 0.052455030381679535
+          },
+          {
+            "frequency": 1065.8935546875,
+            "amplitude": 0.3087858557701111
+          },
+          {
+            "frequency": 1442.724609375,
+            "amplitude": 0.03562171012163162
+          },
+          {
+            "frequency": 1765.72265625,
+            "amplitude": 0.0170991700142622
+          },
+          {
+            "frequency": 2110.25390625,
+            "amplitude": 0.011362338438630104
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.004815153777599335,
+        "peak_amplitude": 0.010929686948657036,
+        "loudness_lufs": -57.17275336160526,
+        "dynamic_range_db": 26.738861062807132,
+        "dynamic_level": "pp",
+        "attack_time_ms": 0.7482993197278912,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.3422859232440266,
+        "release_time_ms": 0.022675736961451247,
+        "envelope_shape": {
+          "type": "generic",
+          "attack_slope": 0.030303030303030304,
+          "decay_slope": -3.417452108859797e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_308",
+      "index": 51,
+      "filename": "segment_051_E_mp_669.6Hz.wav",
+      "onset_time": 64.36571428571429,
+      "duration": 0.6072789115646202,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 669.608637360112,
+        "note_name": "E",
+        "octave": 5,
+        "cents_deviation": 26.977536500450583,
+        "confidence": 0.14333281210955867,
+        "pitch_stability": 0.3497064217376273,
+        "harmonics": [
+          {
+            "frequency": 1378.125,
+            "amplitude": 0.3686070144176483
+          },
+          {
+            "frequency": 2002.587890625,
+            "amplitude": 64.76012420654297
+          },
+          {
+            "frequency": 2713.18359375,
+            "amplitude": 0.672045886516571
+          },
+          {
+            "frequency": 3283.8134765625,
+            "amplitude": 9.50815200805664
+          },
+          {
+            "frequency": 3951.3427734375,
+            "amplitude": 0.26434603333473206
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.11322055011987686,
+        "peak_amplitude": 0.7866339683532715,
+        "loudness_lufs": -14.394589338542449,
+        "dynamic_range_db": 42.89924098139665,
+        "dynamic_level": "mp",
+        "attack_time_ms": 123.99092970521541,
+        "decay_time_ms": 70.63492063492063,
+        "sustain_level": 0.07346619748940009,
+        "release_time_ms": 168.43537414965988,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.000182882223847842,
+          "decay_slope": -4.567711627410532e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_312",
+      "index": 52,
+      "filename": "segment_052_F_pp_345.2Hz.wav",
+      "onset_time": 65.45705215419501,
+      "duration": 0.38668934240362773,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 345.1706948209501,
+        "note_name": "F",
+        "octave": 4,
+        "cents_deviation": -20.23224754955759,
+        "confidence": 0.0022454736683372267,
+        "pitch_stability": 0.05188325123840458,
+        "harmonics": [
+          {
+            "frequency": 678.2958984375,
+            "amplitude": 0.2769308090209961
+          },
+          {
+            "frequency": 1001.2939453125,
+            "amplitude": 0.014200993813574314
+          },
+          {
+            "frequency": 1378.125,
+            "amplitude": 0.01392387319356203
+          },
+          {
+            "frequency": 1733.4228515625,
+            "amplitude": 0.009273633360862732
+          },
+          {
+            "frequency": 2045.654296875,
+            "amplitude": 0.010821499861776829
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0034018498845398426,
+        "peak_amplitude": 0.008427273482084274,
+        "loudness_lufs": -60.440305056898666,
+        "dynamic_range_db": 29.015126742422712,
+        "dynamic_level": "pp",
+        "attack_time_ms": 237.59637188208615,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.3608783844541641,
+        "release_time_ms": 22.22222222222222,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 9.54380606986066e-05,
+          "decay_slope": -0.00014022376714942371
+        }
+      }
+    },
+    {
+      "segment_id": "segment_316",
+      "index": 53,
+      "filename": "segment_053_F_pp_358.8Hz.wav",
+      "onset_time": 66.31619047619047,
+      "duration": 0.3982993197278972,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 358.7603350941406,
+        "note_name": "F",
+        "octave": 4,
+        "cents_deviation": 46.62024339980455,
+        "confidence": 0.0193366140637887,
+        "pitch_stability": 0.1654534623980318,
+        "harmonics": [
+          {
+            "frequency": 689.0625,
+            "amplitude": 0.03077431581914425
+          },
+          {
+            "frequency": 1065.8935546875,
+            "amplitude": 0.48633044958114624
+          },
+          {
+            "frequency": 1453.4912109375,
+            "amplitude": 0.021776985377073288
+          },
+          {
+            "frequency": 1765.72265625,
+            "amplitude": 0.016279812902212143
+          },
+          {
+            "frequency": 2153.3203125,
+            "amplitude": 0.013684647157788277
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0066032931208610535,
+        "peak_amplitude": 0.0169655904173851,
+        "loudness_lufs": -54.50941901050017,
+        "dynamic_range_db": 28.288823875744118,
+        "dynamic_level": "pp",
+        "attack_time_ms": 32.04081632653062,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.2673502871828547,
+        "release_time_ms": 0.18140589569160998,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.0007077140835102619,
+          "decay_slope": -4.3472805029335694e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_323",
+      "index": 54,
+      "filename": "segment_054_D_pp_295.8Hz.wav",
+      "onset_time": 67.82548752834467,
+      "duration": 0.5143990929705211,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 295.8042562140608,
+        "note_name": "D",
+        "octave": 4,
+        "cents_deviation": 12.567144666816787,
+        "confidence": 0.019747314572382314,
+        "pitch_stability": 0.15010951403555153,
+        "harmonics": [
+          {
+            "frequency": 602.9296875,
+            "amplitude": 0.10761576145887375
+          },
+          {
+            "frequency": 904.39453125,
+            "amplitude": 0.36498865485191345
+          },
+          {
+            "frequency": 1173.5595703125,
+            "amplitude": 0.27432578802108765
+          },
+          {
+            "frequency": 1496.5576171875,
+            "amplitude": 0.06562457978725433
+          },
+          {
+            "frequency": 1754.9560546875,
+            "amplitude": 0.03596772626042366
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.002860279520973563,
+        "peak_amplitude": 0.008617768064141273,
+        "loudness_lufs": -57.598217568252934,
+        "dynamic_range_db": 30.36576303075911,
+        "dynamic_level": "pp",
+        "attack_time_ms": 136.3265306122449,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.31348896082223066,
+        "release_time_ms": 1.1564625850340136,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00016633399866932801,
+          "decay_slope": -4.675757959051626e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_333",
+      "index": 55,
+      "filename": "segment_055_B_pp_247.6Hz.wav",
+      "onset_time": 69.81079365079366,
+      "duration": 0.46795918367345735,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 247.5999937770104,
+        "note_name": "B",
+        "octave": 3,
+        "cents_deviation": 4.609305451174173,
+        "confidence": 0.0011093120838329262,
+        "pitch_stability": 0.04062496171400097,
+        "harmonics": [
+          {
+            "frequency": 484.4970703125,
+            "amplitude": 0.06048901751637459
+          },
+          {
+            "frequency": 721.3623046875,
+            "amplitude": 0.02081330120563507
+          },
+          {
+            "frequency": 979.7607421875,
+            "amplitude": 0.020446304231882095
+          },
+          {
+            "frequency": 1259.6923828125,
+            "amplitude": 0.013441335409879684
+          },
+          {
+            "frequency": 1464.2578125,
+            "amplitude": 0.013646967709064484
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.003358267480507493,
+        "peak_amplitude": 0.011222709901630878,
+        "loudness_lufs": -58.720324270325065,
+        "dynamic_range_db": 76.0692270631411,
+        "dynamic_level": "pp",
+        "attack_time_ms": 1.1564625850340136,
+        "decay_time_ms": 120.8390022675737,
+        "sustain_level": 0.33557318114400625,
+        "release_time_ms": 0.022675736961451247,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.0196078431372549,
+          "decay_slope": -2.060399249030158e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_339",
+      "index": 56,
+      "filename": "segment_056_B_pp_120.1Hz.wav",
+      "onset_time": 71.04145124716554,
+      "duration": 0.6537188208616698,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 120.14681814363671,
+        "note_name": "B",
+        "octave": 2,
+        "cents_deviation": -47.24609812066092,
+        "confidence": 8.3373169846961e-05,
+        "pitch_stability": 0.047328629533114834,
+        "harmonics": [
+          {
+            "frequency": 236.865234375,
+            "amplitude": 0.08084014058113098
+          },
+          {
+            "frequency": 355.2978515625,
+            "amplitude": 0.04379099979996681
+          },
+          {
+            "frequency": 473.73046875,
+            "amplitude": 0.023289954289793968
+          },
+          {
+            "frequency": 602.9296875,
+            "amplitude": 0.013875452801585197
+          },
+          {
+            "frequency": 721.3623046875,
+            "amplitude": 0.012970620766282082
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0022790078073740005,
+        "peak_amplitude": 0.010676135309040546,
+        "loudness_lufs": -58.25150821625785,
+        "dynamic_range_db": 80.53364698061347,
+        "dynamic_level": "pp",
+        "attack_time_ms": 617.3242630385487,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.7470771781984317,
+        "release_time_ms": 28.480725623582767,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 3.6732295033793715e-05,
+          "decay_slope": -0.0004408838859313111
+        }
+      }
+    },
+    {
+      "segment_id": "segment_343",
+      "index": 57,
+      "filename": "segment_057_A_p_451.0Hz.wav",
+      "onset_time": 72.14439909297052,
+      "duration": 0.3054195011337839,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 450.95156582512675,
+        "note_name": "A",
+        "octave": 4,
+        "cents_deviation": 42.562759536079575,
+        "confidence": 0.07718017388530207,
+        "pitch_stability": 0.19712194208073744,
+        "harmonics": [
+          {
+            "frequency": 904.39453125,
+            "amplitude": 16.247941970825195
+          },
+          {
+            "frequency": 1345.8251953125,
+            "amplitude": 0.11898472160100937
+          },
+          {
+            "frequency": 1819.5556640625,
+            "amplitude": 0.0700860470533371
+          },
+          {
+            "frequency": 2217.919921875,
+            "amplitude": 0.03333243727684021
+          },
+          {
+            "frequency": 2713.18359375,
+            "amplitude": 0.1189563050866127
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.019447578117251396,
+        "peak_amplitude": 0.06423281133174896,
+        "loudness_lufs": -29.763274789394586,
+        "dynamic_range_db": 36.71080182278645,
+        "dynamic_level": "p",
+        "attack_time_ms": 175.1020408163265,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.637526192057031,
+        "release_time_ms": 39.31972789115646,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.0001295001295001295,
+          "decay_slope": -0.00013536707842176513
+        }
+      }
+    },
+    {
+      "segment_id": "segment_364",
+      "index": 58,
+      "filename": "segment_058_A#_pp_237.3Hz.wav",
+      "onset_time": 75.81315192743764,
+      "duration": 0.36346938775510296,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 237.3441058292788,
+        "note_name": "A#",
+        "octave": 3,
+        "cents_deviation": 31.372038527623758,
+        "confidence": 0.009822973900278566,
+        "pitch_stability": 0.07443894652028116,
+        "harmonics": [
+          {
+            "frequency": 473.73046875,
+            "amplitude": 0.04842314124107361
+          },
+          {
+            "frequency": 710.595703125,
+            "amplitude": 0.016237672418355942
+          },
+          {
+            "frequency": 968.994140625,
+            "amplitude": 0.13046345114707947
+          },
+          {
+            "frequency": 1184.326171875,
+            "amplitude": 0.018266525119543076
+          },
+          {
+            "frequency": 1442.724609375,
+            "amplitude": 0.01054847426712513
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0022677849046885967,
+        "peak_amplitude": 0.008883112110197544,
+        "loudness_lufs": -62.963286930561665,
+        "dynamic_range_db": 76.07872155498801,
+        "dynamic_level": "pp",
+        "attack_time_ms": 0.9070294784580499,
+        "decay_time_ms": 171.47392290249434,
+        "sustain_level": 0.06977329767879684,
+        "release_time_ms": 0.022675736961451247,
+        "envelope_shape": {
+          "type": "generic",
+          "attack_slope": 0.025,
+          "decay_slope": -3.0398121412585436e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_371",
+      "index": 59,
+      "filename": "segment_059_D_mp_590.1Hz.wav",
+      "onset_time": 77.08444444444444,
+      "duration": 0.4853741496598616,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 590.0768799152446,
+        "note_name": "D",
+        "octave": 5,
+        "cents_deviation": 8.079290523872018,
+        "confidence": 0.10106139232030069,
+        "pitch_stability": 0.2803605926541336,
+        "harmonics": [
+          {
+            "frequency": 1184.326171875,
+            "amplitude": 47.679229736328125
+          },
+          {
+            "frequency": 1711.8896484375,
+            "amplitude": 0.36704888939857483
+          },
+          {
+            "frequency": 2357.8857421875,
+            "amplitude": 0.12404721975326538
+          },
+          {
+            "frequency": 2896.2158203125,
+            "amplitude": 0.03500228375196457
+          },
+          {
+            "frequency": 3542.2119140625,
+            "amplitude": 0.06670331209897995
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.05505559965968132,
+        "peak_amplitude": 0.3428870141506195,
+        "loudness_lufs": -19.447168161689135,
+        "dynamic_range_db": 39.75509058788261,
+        "dynamic_level": "mp",
+        "attack_time_ms": 109.65986394557824,
+        "decay_time_ms": 74.6485260770975,
+        "sustain_level": 0.07403504970784829,
+        "release_time_ms": 117.86848072562358,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00020678246484698098,
+          "decay_slope": -5.900862050613954e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_372",
+      "index": 60,
+      "filename": "segment_060_G_p_100.0Hz.wav",
+      "onset_time": 77.51981859410431,
+      "duration": 0.46795918367347156,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 100.0,
+        "note_name": "G",
+        "octave": 2,
+        "cents_deviation": 34.995771500077666,
+        "confidence": 4.456004752029854e-10,
+        "pitch_stability": 0.015491054135796958,
+        "harmonics": [
+          {
+            "frequency": 204.5654296875,
+            "amplitude": 0.3447933793067932
+          },
+          {
+            "frequency": 301.46484375,
+            "amplitude": 0.6772556304931641
+          },
+          {
+            "frequency": 398.3642578125,
+            "amplitude": 1.0435906648635864
+          },
+          {
+            "frequency": 495.263671875,
+            "amplitude": 0.3316195011138916
+          },
+          {
+            "frequency": 592.1630859375,
+            "amplitude": 0.20464956760406494
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.010192151181399822,
+        "peak_amplitude": 0.030281590297818184,
+        "loudness_lufs": -39.0286088836858,
+        "dynamic_range_db": 29.390736052190285,
+        "dynamic_level": "p",
+        "attack_time_ms": 282.3809523809524,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.37196783744226397,
+        "release_time_ms": 6.6893424036281175,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 8.030193527664017e-05,
+          "decay_slope": -0.00010428785990466681
+        }
+      }
+    },
+    {
+      "segment_id": "segment_373",
+      "index": 61,
+      "filename": "segment_061_C_pp_254.5Hz.wav",
+      "onset_time": 77.93777777777778,
+      "duration": 0.34024943310656397,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 254.4516075923064,
+        "note_name": "C",
+        "octave": 3,
+        "cents_deviation": -48.134661174701776,
+        "confidence": 0.02743930818097258,
+        "pitch_stability": 0.13116516791947905,
+        "harmonics": [
+          {
+            "frequency": 506.0302734375,
+            "amplitude": 0.08925417065620422
+          },
+          {
+            "frequency": 785.9619140625,
+            "amplitude": 0.04277899116277695
+          },
+          {
+            "frequency": 1001.2939453125,
+            "amplitude": 0.03543640300631523
+          },
+          {
+            "frequency": 1259.6923828125,
+            "amplitude": 0.028156986460089684
+          },
+          {
+            "frequency": 1539.6240234375,
+            "amplitude": 0.026116222143173218
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.005028766579926014,
+        "peak_amplitude": 0.017508450895547867,
+        "loudness_lufs": -56.30166328592253,
+        "dynamic_range_db": 27.77339720350822,
+        "dynamic_level": "pp",
+        "attack_time_ms": 23.10657596371882,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.252953730319938,
+        "release_time_ms": 0.40816326530612246,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.0009813542688910696,
+          "decay_slope": -5.6039446396470525e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_374",
+      "index": 62,
+      "filename": "segment_062_E_mp_674.2Hz.wav",
+      "onset_time": 78.22802721088435,
+      "duration": 0.47956916099774105,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 674.2054373176462,
+        "note_name": "E",
+        "octave": 5,
+        "cents_deviation": 38.82168636239953,
+        "confidence": 0.09655600862332483,
+        "pitch_stability": 0.27626794434102997,
+        "harmonics": [
+          {
+            "frequency": 1335.05859375,
+            "amplitude": 0.14064934849739075
+          },
+          {
+            "frequency": 2002.587890625,
+            "amplitude": 19.436702728271484
+          },
+          {
+            "frequency": 2637.8173828125,
+            "amplitude": 0.12948931753635406
+          },
+          {
+            "frequency": 3337.646484375,
+            "amplitude": 1.085235834121704
+          },
+          {
+            "frequency": 4026.708984375,
+            "amplitude": 0.030728701502084732
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.056519441306591034,
+        "peak_amplitude": 0.26710668206214905,
+        "loudness_lufs": -21.931257671956512,
+        "dynamic_range_db": 39.19313423771491,
+        "dynamic_level": "mp",
+        "attack_time_ms": 104.5578231292517,
+        "decay_time_ms": 326.7800453514739,
+        "sustain_level": 0.2001142293524339,
+        "release_time_ms": 48.2312925170068,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00021687269572760788,
+          "decay_slope": -5.592175090566943e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_379",
+      "index": 63,
+      "filename": "segment_063_E_mp_671.5Hz.wav",
+      "onset_time": 79.26131519274377,
+      "duration": 0.3402494331065782,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 671.5348489791672,
+        "note_name": "E",
+        "octave": 5,
+        "cents_deviation": 31.95049497587732,
+        "confidence": 0.04400956781409508,
+        "pitch_stability": 0.16176710618621798,
+        "harmonics": [
+          {
+            "frequency": 1335.05859375,
+            "amplitude": 0.3073219656944275
+          },
+          {
+            "frequency": 2002.587890625,
+            "amplitude": 35.70376968383789
+          },
+          {
+            "frequency": 2627.05078125,
+            "amplitude": 0.2438754290342331
+          },
+          {
+            "frequency": 3294.580078125,
+            "amplitude": 2.4411933422088623
+          },
+          {
+            "frequency": 4091.30859375,
+            "amplitude": 0.06616321951150894
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.09061087667942047,
+        "peak_amplitude": 0.3605431020259857,
+        "loudness_lufs": -17.74250717129604,
+        "dynamic_range_db": 97.28449975013616,
+        "dynamic_level": "mp",
+        "attack_time_ms": 104.6031746031746,
+        "decay_time_ms": 234.82993197278913,
+        "sustain_level": 0.3306061419599087,
+        "release_time_ms": 0.8163265306122449,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00021677866897897247,
+          "decay_slope": -8.650528440693187e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_386",
+      "index": 64,
+      "filename": "segment_064_E_mp_673.5Hz.wav",
+      "onset_time": 80.52680272108843,
+      "duration": 0.47956916099774105,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 673.4896587078166,
+        "note_name": "E",
+        "octave": 5,
+        "cents_deviation": 36.98272379423173,
+        "confidence": 0.12826711714749817,
+        "pitch_stability": 0.3428519477278901,
+        "harmonics": [
+          {
+            "frequency": 1335.05859375,
+            "amplitude": 0.3218509256839752
+          },
+          {
+            "frequency": 2002.587890625,
+            "amplitude": 44.890743255615234
+          },
+          {
+            "frequency": 2627.05078125,
+            "amplitude": 0.3179095387458801
+          },
+          {
+            "frequency": 3337.646484375,
+            "amplitude": 1.941123366355896
+          },
+          {
+            "frequency": 4080.5419921875,
+            "amplitude": 0.05354470759630203
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.10057317465543747,
+        "peak_amplitude": 0.4878465235233307,
+        "loudness_lufs": -16.478120030296637,
+        "dynamic_range_db": 89.64977709075471,
+        "dynamic_level": "mp",
+        "attack_time_ms": 98.95691609977324,
+        "decay_time_ms": 193.74149659863946,
+        "sustain_level": 0.17667360707444296,
+        "release_time_ms": 123.33333333333334,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00022914757103574703,
+          "decay_slope": -5.623147313478858e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_393",
+      "index": 65,
+      "filename": "segment_065_E_mp_669.9Hz.wav",
+      "onset_time": 82.10575963718821,
+      "duration": 0.5840589569160954,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 669.8942957307726,
+        "note_name": "E",
+        "octave": 5,
+        "cents_deviation": 27.71593205445555,
+        "confidence": 0.16327854022465305,
+        "pitch_stability": 0.3792717127323458,
+        "harmonics": [
+          {
+            "frequency": 1378.125,
+            "amplitude": 0.38669297099113464
+          },
+          {
+            "frequency": 2002.587890625,
+            "amplitude": 76.4544448852539
+          },
+          {
+            "frequency": 2691.650390625,
+            "amplitude": 0.8115288615226746
+          },
+          {
+            "frequency": 3283.8134765625,
+            "amplitude": 13.927410125732422
+          },
+          {
+            "frequency": 3962.109375,
+            "amplitude": 0.31059587001800537
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.13972750306129456,
+        "peak_amplitude": 0.9747414588928223,
+        "loudness_lufs": -12.623065987876547,
+        "dynamic_range_db": 42.21955449649238,
+        "dynamic_level": "mp",
+        "attack_time_ms": 95.3514739229025,
+        "decay_time_ms": 36.55328798185941,
+        "sustain_level": 0.06746357164131775,
+        "release_time_ms": 145.14739229024943,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00023781212841854935,
+          "decay_slope": -4.5147707942162385e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_397",
+      "index": 66,
+      "filename": "segment_066_E_mp_674.0Hz.wav",
+      "onset_time": 83.0809977324263,
+      "duration": 0.3402494331065782,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 673.9994996047258,
+        "note_name": "E",
+        "octave": 5,
+        "cents_deviation": 38.292795874605545,
+        "confidence": 0.5937180150920202,
+        "pitch_stability": 0.7744016200478527,
+        "harmonics": [
+          {
+            "frequency": 1378.125,
+            "amplitude": 0.4141925275325775
+          },
+          {
+            "frequency": 2002.587890625,
+            "amplitude": 41.6602783203125
+          },
+          {
+            "frequency": 2691.650390625,
+            "amplitude": 0.21369341015815735
+          },
+          {
+            "frequency": 3337.646484375,
+            "amplitude": 0.9725292921066284
+          },
+          {
+            "frequency": 3983.642578125,
+            "amplitude": 0.06029738485813141
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.10381964594125748,
+        "peak_amplitude": 0.42731866240501404,
+        "loudness_lufs": -16.592686852408022,
+        "dynamic_range_db": 38.34131912734196,
+        "dynamic_level": "mp",
+        "attack_time_ms": 95.3514739229025,
+        "decay_time_ms": 170.47619047619048,
+        "sustain_level": 0.2738750836088175,
+        "release_time_ms": 74.42176870748298,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00023781212841854935,
+          "decay_slope": -8.49916079388459e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_401",
+      "index": 67,
+      "filename": "segment_067_F_pp_681.6Hz.wav",
+      "onset_time": 83.80081632653061,
+      "duration": 0.3402494331065782,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 681.573745548519,
+        "note_name": "F",
+        "octave": 5,
+        "cents_deviation": -42.36051226085742,
+        "confidence": 0.033938247921172816,
+        "pitch_stability": 0.10032872978454274,
+        "harmonics": [
+          {
+            "frequency": 1367.3583984375,
+            "amplitude": 0.0389062836766243
+          },
+          {
+            "frequency": 2002.587890625,
+            "amplitude": 0.17805607616901398
+          },
+          {
+            "frequency": 2691.650390625,
+            "amplitude": 0.019516127184033394
+          },
+          {
+            "frequency": 3423.779296875,
+            "amplitude": 0.01461740117520094
+          },
+          {
+            "frequency": 4080.5419921875,
+            "amplitude": 0.015225245617330074
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.009744466282427311,
+        "peak_amplitude": 0.026850473135709763,
+        "loudness_lufs": -44.04060903176016,
+        "dynamic_range_db": 29.269818616400624,
+        "dynamic_level": "pp",
+        "attack_time_ms": 315.55555555555554,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.5685556340552267,
+        "release_time_ms": 4.73922902494331,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 7.185972980741592e-05,
+          "decay_slope": -0.000720391921193563
+        }
+      }
+    },
+    {
+      "segment_id": "segment_402",
+      "index": 68,
+      "filename": "segment_068_E_mp_671.0Hz.wav",
+      "onset_time": 84.09106575963719,
+      "duration": 0.47956916099772684,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 670.9553765300249,
+        "note_name": "E",
+        "octave": 5,
+        "cents_deviation": 30.455955235188625,
+        "confidence": 0.0531550433754796,
+        "pitch_stability": 0.18938474603892907,
+        "harmonics": [
+          {
+            "frequency": 1378.125,
+            "amplitude": 0.34045442938804626
+          },
+          {
+            "frequency": 2002.587890625,
+            "amplitude": 47.694732666015625
+          },
+          {
+            "frequency": 2691.650390625,
+            "amplitude": 0.315084844827652
+          },
+          {
+            "frequency": 3294.580078125,
+            "amplitude": 2.9878556728363037
+          },
+          {
+            "frequency": 3962.109375,
+            "amplitude": 0.06504476070404053
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0956796258687973,
+        "peak_amplitude": 0.4647707939147949,
+        "loudness_lufs": -16.734346291656355,
+        "dynamic_range_db": 38.39241993489524,
+        "dynamic_level": "mp",
+        "attack_time_ms": 95.17006802721089,
+        "decay_time_ms": 224.48979591836735,
+        "sustain_level": 0.1801608819363256,
+        "release_time_ms": 115.64625850340137,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.0002382654276864427,
+          "decay_slope": -5.561789883746996e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_408",
+      "index": 69,
+      "filename": "segment_069_E_mp_668.2Hz.wav",
+      "onset_time": 85.3449433106576,
+      "duration": 0.36346938775510296,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 668.1662172857153,
+        "note_name": "E",
+        "octave": 5,
+        "cents_deviation": 23.244221129948528,
+        "confidence": 0.07004157651166783,
+        "pitch_stability": 0.20888037626205022,
+        "harmonics": [
+          {
+            "frequency": 1378.125,
+            "amplitude": 0.46202632784843445
+          },
+          {
+            "frequency": 2002.587890625,
+            "amplitude": 67.21752166748047
+          },
+          {
+            "frequency": 2670.1171875,
+            "amplitude": 0.5541669726371765
+          },
+          {
+            "frequency": 3283.8134765625,
+            "amplitude": 9.08156681060791
+          },
+          {
+            "frequency": 4059.0087890625,
+            "amplitude": 0.14852499961853027
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.10393378883600235,
+        "peak_amplitude": 0.5009044408798218,
+        "loudness_lufs": -15.424640206889801,
+        "dynamic_range_db": 47.29625188495077,
+        "dynamic_level": "mp",
+        "attack_time_ms": 108.11791383219955,
+        "decay_time_ms": 159.75056689342404,
+        "sustain_level": 0.25892270986623206,
+        "release_time_ms": 93.51473922902494,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00020973154362416107,
+          "decay_slope": -8.197224092678495e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_415",
+      "index": 70,
+      "filename": "segment_070_F_p_679.3Hz.wav",
+      "onset_time": 86.47111111111111,
+      "duration": 0.47956916099772684,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 679.2558905417275,
+        "note_name": "F",
+        "octave": 5,
+        "cents_deviation": -48.25802254814988,
+        "confidence": 0.810187707557167,
+        "pitch_stability": 0.8999063808602709,
+        "harmonics": [
+          {
+            "frequency": 1356.591796875,
+            "amplitude": 0.10172831267118454
+          },
+          {
+            "frequency": 2002.587890625,
+            "amplitude": 5.150465965270996
+          },
+          {
+            "frequency": 2659.3505859375,
+            "amplitude": 0.09027460962533951
+          },
+          {
+            "frequency": 3413.0126953125,
+            "amplitude": 0.8118675947189331
+          },
+          {
+            "frequency": 4123.6083984375,
+            "amplitude": 0.036470528692007065
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.03823800012469292,
+        "peak_amplitude": 0.19368088245391846,
+        "loudness_lufs": -25.659449456990618,
+        "dynamic_range_db": 35.142370174951424,
+        "dynamic_level": "p",
+        "attack_time_ms": 101.9047619047619,
+        "decay_time_ms": 305.60090702947844,
+        "sustain_level": 0.19543938730373406,
+        "release_time_ms": 72.06349206349206,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00022251891410769915,
+          "decay_slope": -5.557356909323563e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_421",
+      "index": 71,
+      "filename": "segment_071_E_mf_669.8Hz.wav",
+      "onset_time": 87.69015873015873,
+      "duration": 0.5260090702947764,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 669.7818317179772,
+        "note_name": "E",
+        "octave": 5,
+        "cents_deviation": 27.425262504235093,
+        "confidence": 0.09617749420296128,
+        "pitch_stability": 0.2681476367332854,
+        "harmonics": [
+          {
+            "frequency": 1388.8916015625,
+            "amplitude": 0.547348141670227
+          },
+          {
+            "frequency": 2002.587890625,
+            "amplitude": 81.23681640625
+          },
+          {
+            "frequency": 2723.9501953125,
+            "amplitude": 0.7184640765190125
+          },
+          {
+            "frequency": 3283.8134765625,
+            "amplitude": 9.287113189697266
+          },
+          {
+            "frequency": 3962.109375,
+            "amplitude": 0.24425211548805237
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.16168680787086487,
+        "peak_amplitude": 0.9072656631469727,
+        "loudness_lufs": -11.913798476485757,
+        "dynamic_range_db": 56.92698824711145,
+        "dynamic_level": "mf",
+        "attack_time_ms": 134.89795918367346,
+        "decay_time_ms": 63.151927437641724,
+        "sustain_level": 0.13271461680112312,
+        "release_time_ms": 117.23356009070295,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00016809547823163558,
+          "decay_slope": -5.5502174221485896e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_426",
+      "index": 72,
+      "filename": "segment_072_F_pp_692.1Hz.wav",
+      "onset_time": 88.88598639455782,
+      "duration": 0.3170294784580534,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 692.1271923200164,
+        "note_name": "F",
+        "octave": 5,
+        "cents_deviation": -15.759604682734718,
+        "confidence": 0.8791257387626221,
+        "pitch_stability": 0.9379062642066098,
+        "harmonics": [
+          {
+            "frequency": 1378.125,
+            "amplitude": 0.015270783565938473
+          },
+          {
+            "frequency": 2013.3544921875,
+            "amplitude": 0.010572010651230812
+          },
+          {
+            "frequency": 2702.4169921875,
+            "amplitude": 0.005099590867757797
+          },
+          {
+            "frequency": 3456.0791015625,
+            "amplitude": 0.005385324824601412
+          },
+          {
+            "frequency": 4188.2080078125,
+            "amplitude": 0.004683653824031353
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.004010169301182032,
+        "peak_amplitude": 0.011941969394683838,
+        "loudness_lufs": -53.01973327901968,
+        "dynamic_range_db": 29.72654340313492,
+        "dynamic_level": "pp",
+        "attack_time_ms": 83.24263038548753,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.3447003932846807,
+        "release_time_ms": 17.142857142857142,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00027240533914464724,
+          "decay_slope": -7.906844335228888e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_427",
+      "index": 73,
+      "filename": "segment_073_E_mf_673.2Hz.wav",
+      "onset_time": 89.15301587301587,
+      "duration": 0.6421088435374145,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 673.1801099264503,
+        "note_name": "E",
+        "octave": 5,
+        "cents_deviation": 36.18683245981735,
+        "confidence": 0.23216678740260388,
+        "pitch_stability": 0.4674267241055115,
+        "harmonics": [
+          {
+            "frequency": 1410.4248046875,
+            "amplitude": 0.7681018114089966
+          },
+          {
+            "frequency": 2002.587890625,
+            "amplitude": 99.52263641357422
+          },
+          {
+            "frequency": 2627.05078125,
+            "amplitude": 1.4227060079574585
+          },
+          {
+            "frequency": 3380.712890625,
+            "amplitude": 11.15809154510498
+          },
+          {
+            "frequency": 3972.8759765625,
+            "amplitude": 0.5838462114334106
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.20922835171222687,
+        "peak_amplitude": 1.024672269821167,
+        "loudness_lufs": -9.394803601725892,
+        "dynamic_range_db": 58.35206124796976,
+        "dynamic_level": "mf",
+        "attack_time_ms": 107.52834467120181,
+        "decay_time_ms": 12.131519274376418,
+        "sustain_level": 0.06734311802966877,
+        "release_time_ms": 173.74149659863946,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00021088148460565162,
+          "decay_slope": -4.157451042850844e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_434",
+      "index": 74,
+      "filename": "segment_074_A#_pp_227.3Hz.wav",
+      "onset_time": 90.76680272108844,
+      "duration": 0.4331292517006773,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 227.28813994929206,
+        "note_name": "A#",
+        "octave": 3,
+        "cents_deviation": -43.57734213377675,
+        "confidence": 0.00063131587056711,
+        "pitch_stability": 0.030933236169883072,
+        "harmonics": [
+          {
+            "frequency": 441.4306640625,
+            "amplitude": 0.07054390758275986
+          },
+          {
+            "frequency": 678.2958984375,
+            "amplitude": 0.2218611091375351
+          },
+          {
+            "frequency": 904.39453125,
+            "amplitude": 0.00912155769765377
+          },
+          {
+            "frequency": 1130.4931640625,
+            "amplitude": 0.009198729880154133
+          },
+          {
+            "frequency": 1378.125,
+            "amplitude": 0.0076126111671328545
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0021397348027676344,
+        "peak_amplitude": 0.007691056467592716,
+        "loudness_lufs": -63.37019045457594,
+        "dynamic_range_db": 74.45128592665979,
+        "dynamic_level": "pp",
+        "attack_time_ms": 336.031746031746,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.2881794266483882,
+        "release_time_ms": 0.022675736961451247,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 6.74809366354005e-05,
+          "decay_slope": -0.0001449234411134913
+        }
+      }
+    },
+    {
+      "segment_id": "segment_437",
+      "index": 75,
+      "filename": "segment_075_C#_pp_280.8Hz.wav",
+      "onset_time": 91.55628117913832,
+      "duration": 0.3286394557823087,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 280.7908334899994,
+        "note_name": "C#",
+        "octave": 4,
+        "cents_deviation": 22.390778483112417,
+        "confidence": 0.10215651288035597,
+        "pitch_stability": 0.30216649359333453,
+        "harmonics": [
+          {
+            "frequency": 581.396484375,
+            "amplitude": 0.04374929517507553
+          },
+          {
+            "frequency": 829.0283203125,
+            "amplitude": 0.015840811654925346
+          },
+          {
+            "frequency": 1098.193359375,
+            "amplitude": 0.010105674155056477
+          },
+          {
+            "frequency": 1399.658203125,
+            "amplitude": 0.01593325100839138
+          },
+          {
+            "frequency": 1690.3564453125,
+            "amplitude": 0.016346212476491928
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.002455367473885417,
+        "peak_amplitude": 0.007090472616255283,
+        "loudness_lufs": -63.33369097217829,
+        "dynamic_range_db": 31.89279374157745,
+        "dynamic_level": "pp",
+        "attack_time_ms": 308.8208616780045,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.5414668718358779,
+        "release_time_ms": 8.412698412698413,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 7.342683016374182e-05,
+          "decay_slope": -0.0007857932421213058
+        }
+      }
+    },
+    {
+      "segment_id": "segment_439",
+      "index": 76,
+      "filename": "segment_076_E_mf_667.0Hz.wav",
+      "onset_time": 91.95102040816326,
+      "duration": 0.5027891156462658,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 667.0099129657294,
+        "note_name": "E",
+        "octave": 5,
+        "cents_deviation": 20.24561463159671,
+        "confidence": 0.06254811741685133,
+        "pitch_stability": 0.19445379497797627,
+        "harmonics": [
+          {
+            "frequency": 1399.658203125,
+            "amplitude": 1.3166168928146362
+          },
+          {
+            "frequency": 2002.587890625,
+            "amplitude": 91.51750946044922
+          },
+          {
+            "frequency": 2627.05078125,
+            "amplitude": 1.390747308731079
+          },
+          {
+            "frequency": 3283.8134765625,
+            "amplitude": 8.17912769317627
+          },
+          {
+            "frequency": 3951.3427734375,
+            "amplitude": 0.18999437987804413
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.17701876163482666,
+        "peak_amplitude": 1.0068912506103516,
+        "loudness_lufs": -10.787353952557003,
+        "dynamic_range_db": 49.88364259182454,
+        "dynamic_level": "mf",
+        "attack_time_ms": 149.88662131519274,
+        "decay_time_ms": 37.482993197278915,
+        "sustain_level": 0.11477095931619993,
+        "release_time_ms": 104.71655328798187,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.000151285930408472,
+          "decay_slope": -6.153007518352679e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_442",
+      "index": 77,
+      "filename": "segment_077_F_p_682.7Hz.wav",
+      "onset_time": 92.72888888888889,
+      "duration": 0.3054195011337839,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 682.7032277476126,
+        "note_name": "F",
+        "octave": 5,
+        "cents_deviation": -39.493941137965294,
+        "confidence": 0.9704276034998257,
+        "pitch_stability": 0.9851136015629472,
+        "harmonics": [
+          {
+            "frequency": 1302.7587890625,
+            "amplitude": 0.01657268963754177
+          },
+          {
+            "frequency": 2002.587890625,
+            "amplitude": 0.5505699515342712
+          },
+          {
+            "frequency": 2670.1171875,
+            "amplitude": 0.007929128594696522
+          },
+          {
+            "frequency": 3380.712890625,
+            "amplitude": 0.007642464246600866
+          },
+          {
+            "frequency": 4134.375,
+            "amplitude": 0.0046110753901302814
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.010952917858958244,
+        "peak_amplitude": 0.02878311648964882,
+        "loudness_lufs": -41.34025245490206,
+        "dynamic_range_db": 29.429900663190203,
+        "dynamic_level": "p",
+        "attack_time_ms": 0.7482993197278912,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.6130523564271653,
+        "release_time_ms": 79.25170068027211,
+        "envelope_shape": {
+          "type": "generic",
+          "attack_slope": 0.030303030303030304,
+          "decay_slope": -5.006091233267484e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_445",
+      "index": 78,
+      "filename": "segment_078_C#_pp_139.1Hz.wav",
+      "onset_time": 93.29777777777778,
+      "duration": 0.34024943310656397,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 139.12227648580443,
+        "note_name": "C#",
+        "octave": 3,
+        "cents_deviation": 6.619905571523788,
+        "confidence": 1.1324027265299404e-09,
+        "pitch_stability": 0.014632705480363075,
+        "harmonics": [
+          {
+            "frequency": 269.1650390625,
+            "amplitude": 0.053570713847875595
+          },
+          {
+            "frequency": 409.130859375,
+            "amplitude": 0.027301009744405746
+          },
+          {
+            "frequency": 559.86328125,
+            "amplitude": 0.019873568788170815
+          },
+          {
+            "frequency": 689.0625,
+            "amplitude": 0.17972418665885925
+          },
+          {
+            "frequency": 829.0283203125,
+            "amplitude": 0.011528183706104755
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.002189686754718423,
+        "peak_amplitude": 0.011346589773893356,
+        "loudness_lufs": -62.210092387869636,
+        "dynamic_range_db": 79.97556863576442,
+        "dynamic_level": "pp",
+        "attack_time_ms": 0.8390022675736961,
+        "decay_time_ms": 178.9795918367347,
+        "sustain_level": 0.031735481364029414,
+        "release_time_ms": 0.022675736961451247,
+        "envelope_shape": {
+          "type": "generic",
+          "attack_slope": 0.02702702702702703,
+          "decay_slope": -3.6871140821932166e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_446",
+      "index": 79,
+      "filename": "segment_079_E_mp_670.8Hz.wav",
+      "onset_time": 93.58802721088435,
+      "duration": 0.4099092970521525,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 670.7662828883804,
+        "note_name": "E",
+        "octave": 5,
+        "cents_deviation": 29.96797719481563,
+        "confidence": 0.10440924967279369,
+        "pitch_stability": 0.3036799384757442,
+        "harmonics": [
+          {
+            "frequency": 1399.658203125,
+            "amplitude": 0.508743941783905
+          },
+          {
+            "frequency": 2002.587890625,
+            "amplitude": 46.35811996459961
+          },
+          {
+            "frequency": 2723.9501953125,
+            "amplitude": 0.45351922512054443
+          },
+          {
+            "frequency": 3337.646484375,
+            "amplitude": 2.545635938644409
+          },
+          {
+            "frequency": 3962.109375,
+            "amplitude": 0.08627542853355408
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.08897865563631058,
+        "peak_amplitude": 0.4396602511405945,
+        "loudness_lufs": -17.32821004351,
+        "dynamic_range_db": 61.07148622476943,
+        "dynamic_level": "mp",
+        "attack_time_ms": 117.91383219954649,
+        "decay_time_ms": 201.4512471655329,
+        "sustain_level": 0.23719101535137369,
+        "release_time_ms": 90.54421768707482,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.0001923076923076923,
+          "decay_slope": -7.063096345217329e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_452",
+      "index": 80,
+      "filename": "segment_080_D#_pp_153.2Hz.wav",
+      "onset_time": 94.69097505668934,
+      "duration": 0.4099092970521525,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 153.2097062759346,
+        "note_name": "D#",
+        "octave": 3,
+        "cents_deviation": -26.394989649421063,
+        "confidence": 4.014430599454925e-08,
+        "pitch_stability": 0.018413468909343873,
+        "harmonics": [
+          {
+            "frequency": 312.2314453125,
+            "amplitude": 0.07857589423656464
+          },
+          {
+            "frequency": 452.197265625,
+            "amplitude": 0.03917492926120758
+          },
+          {
+            "frequency": 624.462890625,
+            "amplitude": 0.03132844343781471
+          },
+          {
+            "frequency": 753.662109375,
+            "amplitude": 0.02367105707526207
+          },
+          {
+            "frequency": 904.39453125,
+            "amplitude": 0.010527179576456547
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0025036088190972805,
+        "peak_amplitude": 0.010511020198464394,
+        "loudness_lufs": -57.50682555330194,
+        "dynamic_range_db": 78.07078208451847,
+        "dynamic_level": "pp",
+        "attack_time_ms": 147.8458049886621,
+        "decay_time_ms": 211.40589569160997,
+        "sustain_level": 0.010342559165974664,
+        "release_time_ms": 0.022675736961451247,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00015337423312883436,
+          "decay_slope": -8.478073243072182e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_453",
+      "index": 81,
+      "filename": "segment_081_E_mp_670.9Hz.wav",
+      "onset_time": 95.0508843537415,
+      "duration": 0.45634920634920206,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 670.9265848338688,
+        "note_name": "E",
+        "octave": 5,
+        "cents_deviation": 30.38166380545242,
+        "confidence": 0.05147396644197634,
+        "pitch_stability": 0.168578468371142,
+        "harmonics": [
+          {
+            "frequency": 1399.658203125,
+            "amplitude": 0.41600656509399414
+          },
+          {
+            "frequency": 2002.587890625,
+            "amplitude": 34.90282440185547
+          },
+          {
+            "frequency": 2723.9501953125,
+            "amplitude": 0.21220965683460236
+          },
+          {
+            "frequency": 3413.0126953125,
+            "amplitude": 2.2505085468292236
+          },
+          {
+            "frequency": 3962.109375,
+            "amplitude": 0.0818953886628151
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.08717260509729385,
+        "peak_amplitude": 0.4675108790397644,
+        "loudness_lufs": -17.909904118444647,
+        "dynamic_range_db": 91.28845943838989,
+        "dynamic_level": "mp",
+        "attack_time_ms": 162.81179138321997,
+        "decay_time_ms": 231.24716553287982,
+        "sustain_level": 0.2577321301940041,
+        "release_time_ms": 62.290249433106574,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.0001392757660167131,
+          "decay_slope": -6.961472438516726e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_458",
+      "index": 82,
+      "filename": "segment_082_C#_pp_279.7Hz.wav",
+      "onset_time": 96.02612244897959,
+      "duration": 0.3054195011337839,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 279.6566474016317,
+        "note_name": "C#",
+        "octave": 4,
+        "cents_deviation": 15.383719582414024,
+        "confidence": 0.0003196178195322853,
+        "pitch_stability": 0.055792896184412744,
+        "harmonics": [
+          {
+            "frequency": 570.6298828125,
+            "amplitude": 0.06363657861948013
+          },
+          {
+            "frequency": 818.26171875,
+            "amplitude": 0.044250063598155975
+          },
+          {
+            "frequency": 1119.7265625,
+            "amplitude": 0.02395002730190754
+          },
+          {
+            "frequency": 1388.8916015625,
+            "amplitude": 0.01923162117600441
+          },
+          {
+            "frequency": 1668.8232421875,
+            "amplitude": 0.02762882597744465
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0042014820501208305,
+        "peak_amplitude": 0.01397646963596344,
+        "loudness_lufs": -52.18730063367287,
+        "dynamic_range_db": 29.433152639848302,
+        "dynamic_level": "pp",
+        "attack_time_ms": 106.66666666666667,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.3296820938369532,
+        "release_time_ms": 33.718820861678005,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00021258503401360543,
+          "decay_slope": -8.532047323301825e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_464",
+      "index": 83,
+      "filename": "segment_083_C_pp_537.9Hz.wav",
+      "onset_time": 97.05941043083901,
+      "duration": 0.35185941043083346,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 537.9222820348317,
+        "note_name": "C",
+        "octave": 5,
+        "cents_deviation": 47.87307157688652,
+        "confidence": 0.16476014566471042,
+        "pitch_stability": 0.3579884283458095,
+        "harmonics": [
+          {
+            "frequency": 1065.8935546875,
+            "amplitude": 0.7356472611427307
+          },
+          {
+            "frequency": 1582.6904296875,
+            "amplitude": 0.018137341365218163
+          },
+          {
+            "frequency": 2121.0205078125,
+            "amplitude": 0.012194647453725338
+          },
+          {
+            "frequency": 2723.9501953125,
+            "amplitude": 0.01010043639689684
+          },
+          {
+            "frequency": 3273.046875,
+            "amplitude": 0.00850542914122343
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.006419639103114605,
+        "peak_amplitude": 0.015318414196372032,
+        "loudness_lufs": -53.56563524216793,
+        "dynamic_range_db": 27.776672259146665,
+        "dynamic_level": "pp",
+        "attack_time_ms": 0.8616780045351474,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.6904839096417699,
+        "release_time_ms": 70.9297052154195,
+        "envelope_shape": {
+          "type": "generic",
+          "attack_slope": 0.02631578947368421,
+          "decay_slope": -3.269519939148966e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_467",
+      "index": 84,
+      "filename": "segment_084_C_pp_254.6Hz.wav",
+      "onset_time": 97.83727891156462,
+      "duration": 0.398299319727883,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 254.6343037539892,
+        "note_name": "C",
+        "octave": 3,
+        "cents_deviation": -46.892081789698636,
+        "confidence": 0.05705626915783112,
+        "pitch_stability": 0.20889865073632646,
+        "harmonics": [
+          {
+            "frequency": 495.263671875,
+            "amplitude": 0.047850221395492554
+          },
+          {
+            "frequency": 753.662109375,
+            "amplitude": 0.01981309801340103
+          },
+          {
+            "frequency": 1012.060546875,
+            "amplitude": 0.016925979405641556
+          },
+          {
+            "frequency": 1248.92578125,
+            "amplitude": 0.010756777599453926
+          },
+          {
+            "frequency": 1507.32421875,
+            "amplitude": 0.01751675084233284
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.00323772756382823,
+        "peak_amplitude": 0.010308343917131424,
+        "loudness_lufs": -61.57212444208086,
+        "dynamic_range_db": 31.04306224576016,
+        "dynamic_level": "pp",
+        "attack_time_ms": 300.2267573696145,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.3236555676815995,
+        "release_time_ms": 0.9523809523809523,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 7.552870090634441e-05,
+          "decay_slope": -0.0001915061813496852
+        }
+      }
+    },
+    {
+      "segment_id": "segment_469",
+      "index": 85,
+      "filename": "segment_085_C_p_523.4Hz.wav",
+      "onset_time": 98.42938775510204,
+      "duration": 0.3402494331065782,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 523.4377975750235,
+        "note_name": "C",
+        "octave": 5,
+        "cents_deviation": 0.6174981231787058,
+        "confidence": 0.059259084304612304,
+        "pitch_stability": 0.16004344462897013,
+        "harmonics": [
+          {
+            "frequency": 1065.8935546875,
+            "amplitude": 33.403526306152344
+          },
+          {
+            "frequency": 1571.923828125,
+            "amplitude": 0.3368107080459595
+          },
+          {
+            "frequency": 2077.9541015625,
+            "amplitude": 0.21111086010932922
+          },
+          {
+            "frequency": 2594.7509765625,
+            "amplitude": 0.2504485845565796
+          },
+          {
+            "frequency": 3122.314453125,
+            "amplitude": 3.2994155883789062
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.03542626276612282,
+        "peak_amplitude": 0.1758592426776886,
+        "loudness_lufs": -23.46076453080108,
+        "dynamic_range_db": 40.31994074275866,
+        "dynamic_level": "p",
+        "attack_time_ms": 118.0952380952381,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.230502879287441,
+        "release_time_ms": 76.87074829931973,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00019201228878648233,
+          "decay_slope": -9.028575188300689e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_472",
+      "index": 86,
+      "filename": "segment_086_C#_pp_539.9Hz.wav",
+      "onset_time": 99.04471655328798,
+      "duration": 0.3170294784580392,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 539.9224488445527,
+        "note_name": "C#",
+        "octave": 5,
+        "cents_deviation": -45.70158577318324,
+        "confidence": 0.05619443544547296,
+        "pitch_stability": 0.16350819605547345,
+        "harmonics": [
+          {
+            "frequency": 1065.8935546875,
+            "amplitude": 1.0417786836624146
+          },
+          {
+            "frequency": 1658.056640625,
+            "amplitude": 0.018227392807602882
+          },
+          {
+            "frequency": 2121.0205078125,
+            "amplitude": 0.012191161513328552
+          },
+          {
+            "frequency": 2702.4169921875,
+            "amplitude": 0.010408597066998482
+          },
+          {
+            "frequency": 3251.513671875,
+            "amplitude": 0.00760802673175931
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.006038995459675789,
+        "peak_amplitude": 0.013871010392904282,
+        "loudness_lufs": -52.47646911289293,
+        "dynamic_range_db": 24.404235485852066,
+        "dynamic_level": "pp",
+        "attack_time_ms": 119.25170068027211,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.478211045001475,
+        "release_time_ms": 9.297052154195011,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00019015021867275147,
+          "decay_slope": -8.406304730528455e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_473",
+      "index": 87,
+      "filename": "segment_087_C_p_532.2Hz.wav",
+      "onset_time": 99.31174603174603,
+      "duration": 0.3982993197278972,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 532.1628916944153,
+        "note_name": "C",
+        "octave": 5,
+        "cents_deviation": 29.23726728069198,
+        "confidence": 0.05118870506370357,
+        "pitch_stability": 0.1583238290258731,
+        "harmonics": [
+          {
+            "frequency": 1065.8935546875,
+            "amplitude": 46.555198669433594
+          },
+          {
+            "frequency": 1582.6904296875,
+            "amplitude": 0.24296003580093384
+          },
+          {
+            "frequency": 2077.9541015625,
+            "amplitude": 0.17097510397434235
+          },
+          {
+            "frequency": 2670.1171875,
+            "amplitude": 0.12479044497013092
+          },
+          {
+            "frequency": 3143.84765625,
+            "amplitude": 0.7545862197875977
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.047896161675453186,
+        "peak_amplitude": 0.14989638328552246,
+        "loudness_lufs": -20.683367085771625,
+        "dynamic_range_db": 39.428152430307215,
+        "dynamic_level": "p",
+        "attack_time_ms": 173.60544217687075,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.3250416889378699,
+        "release_time_ms": 73.15192743764172,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00013061650992685477,
+          "decay_slope": -8.685249399368161e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_477",
+      "index": 88,
+      "filename": "segment_088_A#_pp_117.3Hz.wav",
+      "onset_time": 100.10122448979592,
+      "duration": 0.44473922902493257,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 117.27576956815881,
+        "note_name": "A#",
+        "octave": 2,
+        "cents_deviation": 10.881732963153823,
+        "confidence": 2.3018027320308354e-05,
+        "pitch_stability": 0.03104145466224057,
+        "harmonics": [
+          {
+            "frequency": 226.0986328125,
+            "amplitude": 0.20595476031303406
+          },
+          {
+            "frequency": 355.2978515625,
+            "amplitude": 0.059470515698194504
+          },
+          {
+            "frequency": 473.73046875,
+            "amplitude": 0.03025677241384983
+          },
+          {
+            "frequency": 581.396484375,
+            "amplitude": 0.023267880082130432
+          },
+          {
+            "frequency": 699.8291015625,
+            "amplitude": 0.02138633467257023
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 0.0026747770607471466,
+        "peak_amplitude": 0.010976379737257957,
+        "loudness_lufs": -58.90320239475338,
+        "dynamic_range_db": 81.49545902558556,
+        "dynamic_level": "pp",
+        "attack_time_ms": 101.08843537414965,
+        "decay_time_ms": 170.29478458049888,
+        "sustain_level": 0.05336638845026095,
+        "release_time_ms": 0.022675736961451247,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.00022431583669807088,
+          "decay_slope": -3.9000642650891825e-05
+        }
+      }
+    },
+    {
+      "segment_id": "segment_478",
+      "index": 89,
+      "filename": "segment_089_A_pp_110.2Hz.wav",
+      "onset_time": 100.49596371882086,
+      "duration": 0.5376190476190459,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 110.22007856017252,
+        "note_name": "A",
+        "octave": 2,
+        "cents_deviation": 3.4602441900005942,
+        "confidence": 0.06937095797008008,
+        "pitch_stability": 0.28778872262583344,
+        "harmonics": [
+          {
+            "frequency": 215.33203125,
+            "amplitude": 0.00041125493589788675
+          },
+          {
+            "frequency": 322.998046875,
+            "amplitude": 0.00041495903860777617
+          },
+          {
+            "frequency": 430.6640625,
+            "amplitude": 0.00034316020901314914
+          },
+          {
+            "frequency": 549.0966796875,
+            "amplitude": 0.0003349925682414323
+          },
+          {
+            "frequency": 656.7626953125,
+            "amplitude": 0.0003679924120660871
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 1.006457387120463e-05,
+        "peak_amplitude": 4.04234160669148e-05,
+        "loudness_lufs": -100.44996944152118,
+        "dynamic_range_db": 33.54569360206879,
+        "dynamic_level": "pp",
+        "attack_time_ms": 500.45351473922904,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.7529307037688399,
+        "release_time_ms": 14.03628117913832,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 4.5310376076121435e-05,
+          "decay_slope": -0.00038758263260953206
+        }
+      }
+    },
+    {
+      "segment_id": "segment_479",
+      "index": 90,
+      "filename": "segment_090_A_pp_111.9Hz.wav",
+      "onset_time": 100.98358276643991,
+      "duration": 1.7914965986394549,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 111.92197056948106,
+        "note_name": "A",
+        "octave": 2,
+        "cents_deviation": 29.987694115826713,
+        "confidence": 0.02527171265447441,
+        "pitch_stability": 0.19066840255780496,
+        "harmonics": [
+          {
+            "frequency": 215.33203125,
+            "amplitude": 0.000373523507732898
+          },
+          {
+            "frequency": 333.7646484375,
+            "amplitude": 0.00030968099599704146
+          },
+          {
+            "frequency": 452.197265625,
+            "amplitude": 0.0003901214513462037
+          },
+          {
+            "frequency": 570.6298828125,
+            "amplitude": 0.0003626747347880155
+          },
+          {
+            "frequency": 678.2958984375,
+            "amplitude": 0.0003434388490859419
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 1.0058326552098151e-05,
+        "peak_amplitude": 4.35281872341875e-05,
+        "loudness_lufs": -100.38012248335438,
+        "dynamic_range_db": 33.31117708761227,
+        "dynamic_level": "pp",
+        "attack_time_ms": 360.1587301587302,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.873662849565216,
+        "release_time_ms": 1431.3378684807255,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 6.296039790971479e-05,
+          "decay_slope": -8.383309611259293e-06
+        }
+      }
+    },
+    {
+      "segment_id": "segment_481",
+      "index": 91,
+      "filename": "segment_091_A_pp_109.2Hz.wav",
+      "onset_time": 102.9340589569161,
+      "duration": 1.1659410430838903,
+      "source_file": "samples/编铙/biannao-正鼓音.wav",
+      "pitch_info": {
+        "fundamental_freq": 109.23914704940213,
+        "note_name": "A",
+        "octave": 2,
+        "cents_deviation": -12.016283043280396,
+        "confidence": 0.028585516752965192,
+        "pitch_stability": 0.19883202750560758,
+        "harmonics": [
+          {
+            "frequency": 226.0986328125,
+            "amplitude": 0.0003352344792801887
+          },
+          {
+            "frequency": 322.998046875,
+            "amplitude": 0.0003859038697555661
+          },
+          {
+            "frequency": 441.4306640625,
+            "amplitude": 0.0004014051810372621
+          },
+          {
+            "frequency": 538.330078125,
+            "amplitude": 0.00035963617847301066
+          },
+          {
+            "frequency": 656.7626953125,
+            "amplitude": 0.00037803917075507343
+          }
+        ]
+      },
+      "dynamics_info": {
+        "rms_energy": 1.0052824109152425e-05,
+        "peak_amplitude": 4.255653766449541e-05,
+        "loudness_lufs": -100.41953364455935,
+        "dynamic_range_db": 33.527093887865234,
+        "dynamic_level": "pp",
+        "attack_time_ms": 6.6439909297052155,
+        "decay_time_ms": 0.0,
+        "sustain_level": 0.8608726877113838,
+        "release_time_ms": 1159.297052154195,
+        "envelope_shape": {
+          "type": "bowed",
+          "attack_slope": 0.0034129692832764505,
+          "decay_slope": -1.1180744631508732e-05
+        }
+      }
+    }
+  ]
+}
