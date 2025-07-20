@@ -1,0 +1,402 @@
+[
+  {
+    "original_segment_index": 0,
+    "variants": {
+      "-6st": {
+        "filename": "segment_000_variant_-6st.wav",
+        "semitones": -6.0,
+        "original_segment_id": "segment_002"
+      },
+      "-4st": {
+        "filename": "segment_000_variant_-4st.wav",
+        "semitones": -4.0,
+        "original_segment_id": "segment_002"
+      },
+      "-2st": {
+        "filename": "segment_000_variant_-2st.wav",
+        "semitones": -2.0,
+        "original_segment_id": "segment_002"
+      },
+      "+0st": {
+        "filename": "segment_000_variant_original.wav",
+        "semitones": 0.0,
+        "original_segment_id": "segment_002"
+      },
+      "+2st": {
+        "filename": "segment_000_variant_+2st.wav",
+        "semitones": 2.0,
+        "original_segment_id": "segment_002"
+      },
+      "+4st": {
+        "filename": "segment_000_variant_+4st.wav",
+        "semitones": 4.0,
+        "original_segment_id": "segment_002"
+      },
+      "+6st": {
+        "filename": "segment_000_variant_+6st.wav",
+        "semitones": 6.0,
+        "original_segment_id": "segment_002"
+      }
+    }
+  },
+  {
+    "original_segment_index": 1,
+    "variants": {
+      "-6st": {
+        "filename": "segment_001_variant_-6st.wav",
+        "semitones": -6.0,
+        "original_segment_id": "segment_010"
+      },
+      "-4st": {
+        "filename": "segment_001_variant_-4st.wav",
+        "semitones": -4.0,
+        "original_segment_id": "segment_010"
+      },
+      "-2st": {
+        "filename": "segment_001_variant_-2st.wav",
+        "semitones": -2.0,
+        "original_segment_id": "segment_010"
+      },
+      "+0st": {
+        "filename": "segment_001_variant_original.wav",
+        "semitones": 0.0,
+        "original_segment_id": "segment_010"
+      },
+      "+2st": {
+        "filename": "segment_001_variant_+2st.wav",
+        "semitones": 2.0,
+        "original_segment_id": "segment_010"
+      },
+      "+4st": {
+        "filename": "segment_001_variant_+4st.wav",
+        "semitones": 4.0,
+        "original_segment_id": "segment_010"
+      },
+      "+6st": {
+        "filename": "segment_001_variant_+6st.wav",
+        "semitones": 6.0,
+        "original_segment_id": "segment_010"
+      }
+    }
+  },
+  {
+    "original_segment_index": 2,
+    "variants": {
+      "-6st": {
+        "filename": "segment_002_variant_-6st.wav",
+        "semitones": -6.0,
+        "original_segment_id": "segment_023"
+      },
+      "-4st": {
+        "filename": "segment_002_variant_-4st.wav",
+        "semitones": -4.0,
+        "original_segment_id": "segment_023"
+      },
+      "-2st": {
+        "filename": "segment_002_variant_-2st.wav",
+        "semitones": -2.0,
+        "original_segment_id": "segment_023"
+      },
+      "+0st": {
+        "filename": "segment_002_variant_original.wav",
+        "semitones": 0.0,
+        "original_segment_id": "segment_023"
+      },
+      "+2st": {
+        "filename": "segment_002_variant_+2st.wav",
+        "semitones": 2.0,
+        "original_segment_id": "segment_023"
+      },
+      "+4st": {
+        "filename": "segment_002_variant_+4st.wav",
+        "semitones": 4.0,
+        "original_segment_id": "segment_023"
+      },
+      "+6st": {
+        "filename": "segment_002_variant_+6st.wav",
+        "semitones": 6.0,
+        "original_segment_id": "segment_023"
+      }
+    }
+  },
+  {
+    "original_segment_index": 3,
+    "variants": {
+      "-6st": {
+        "filename": "segment_003_variant_-6st.wav",
+        "semitones": -6.0,
+        "original_segment_id": "segment_033"
+      },
+      "-4st": {
+        "filename": "segment_003_variant_-4st.wav",
+        "semitones": -4.0,
+        "original_segment_id": "segment_033"
+      },
+      "-2st": {
+        "filename": "segment_003_variant_-2st.wav",
+        "semitones": -2.0,
+        "original_segment_id": "segment_033"
+      },
+      "+0st": {
+        "filename": "segment_003_variant_original.wav",
+        "semitones": 0.0,
+        "original_segment_id": "segment_033"
+      },
+      "+2st": {
+        "filename": "segment_003_variant_+2st.wav",
+        "semitones": 2.0,
+        "original_segment_id": "segment_033"
+      },
+      "+4st": {
+        "filename": "segment_003_variant_+4st.wav",
+        "semitones": 4.0,
+        "original_segment_id": "segment_033"
+      },
+      "+6st": {
+        "filename": "segment_003_variant_+6st.wav",
+        "semitones": 6.0,
+        "original_segment_id": "segment_033"
+      }
+    }
+  },
+  {
+    "original_segment_index": 4,
+    "variants": {
+      "-6st": {
+        "filename": "segment_004_variant_-6st.wav",
+        "semitones": -6.0,
+        "original_segment_id": "segment_037"
+      },
+      "-4st": {
+        "filename": "segment_004_variant_-4st.wav",
+        "semitones": -4.0,
+        "original_segment_id": "segment_037"
+      },
+      "-2st": {
+        "filename": "segment_004_variant_-2st.wav",
+        "semitones": -2.0,
+        "original_segment_id": "segment_037"
+      },
+      "+0st": {
+        "filename": "segment_004_variant_original.wav",
+        "semitones": 0.0,
+        "original_segment_id": "segment_037"
+      },
+      "+2st": {
+        "filename": "segment_004_variant_+2st.wav",
+        "semitones": 2.0,
+        "original_segment_id": "segment_037"
+      },
+      "+4st": {
+        "filename": "segment_004_variant_+4st.wav",
+        "semitones": 4.0,
+        "original_segment_id": "segment_037"
+      },
+      "+6st": {
+        "filename": "segment_004_variant_+6st.wav",
+        "semitones": 6.0,
+        "original_segment_id": "segment_037"
+      }
+    }
+  },
+  {
+    "original_segment_index": 5,
+    "variants": {
+      "-6st": {
+        "filename": "segment_005_variant_-6st.wav",
+        "semitones": -6.0,
+        "original_segment_id": "segment_045"
+      },
+      "-4st": {
+        "filename": "segment_005_variant_-4st.wav",
+        "semitones": -4.0,
+        "original_segment_id": "segment_045"
+      },
+      "-2st": {
+        "filename": "segment_005_variant_-2st.wav",
+        "semitones": -2.0,
+        "original_segment_id": "segment_045"
+      },
+      "+0st": {
+        "filename": "segment_005_variant_original.wav",
+        "semitones": 0.0,
+        "original_segment_id": "segment_045"
+      },
+      "+2st": {
+        "filename": "segment_005_variant_+2st.wav",
+        "semitones": 2.0,
+        "original_segment_id": "segment_045"
+      },
+      "+4st": {
+        "filename": "segment_005_variant_+4st.wav",
+        "semitones": 4.0,
+        "original_segment_id": "segment_045"
+      },
+      "+6st": {
+        "filename": "segment_005_variant_+6st.wav",
+        "semitones": 6.0,
+        "original_segment_id": "segment_045"
+      }
+    }
+  },
+  {
+    "original_segment_index": 6,
+    "variants": {
+      "-6st": {
+        "filename": "segment_006_variant_-6st.wav",
+        "semitones": -6.0,
+        "original_segment_id": "segment_047"
+      },
+      "-4st": {
+        "filename": "segment_006_variant_-4st.wav",
+        "semitones": -4.0,
+        "original_segment_id": "segment_047"
+      },
+      "-2st": {
+        "filename": "segment_006_variant_-2st.wav",
+        "semitones": -2.0,
+        "original_segment_id": "segment_047"
+      },
+      "+0st": {
+        "filename": "segment_006_variant_original.wav",
+        "semitones": 0.0,
+        "original_segment_id": "segment_047"
+      },
+      "+2st": {
+        "filename": "segment_006_variant_+2st.wav",
+        "semitones": 2.0,
+        "original_segment_id": "segment_047"
+      },
+      "+4st": {
+        "filename": "segment_006_variant_+4st.wav",
+        "semitones": 4.0,
+        "original_segment_id": "segment_047"
+      },
+      "+6st": {
+        "filename": "segment_006_variant_+6st.wav",
+        "semitones": 6.0,
+        "original_segment_id": "segment_047"
+      }
+    }
+  },
+  {
+    "original_segment_index": 7,
+    "variants": {
+      "-6st": {
+        "filename": "segment_007_variant_-6st.wav",
+        "semitones": -6.0,
+        "original_segment_id": "segment_048"
+      },
+      "-4st": {
+        "filename": "segment_007_variant_-4st.wav",
+        "semitones": -4.0,
+        "original_segment_id": "segment_048"
+      },
+      "-2st": {
+        "filename": "segment_007_variant_-2st.wav",
+        "semitones": -2.0,
+        "original_segment_id": "segment_048"
+      },
+      "+0st": {
+        "filename": "segment_007_variant_original.wav",
+        "semitones": 0.0,
+        "original_segment_id": "segment_048"
+      },
+      "+2st": {
+        "filename": "segment_007_variant_+2st.wav",
+        "semitones": 2.0,
+        "original_segment_id": "segment_048"
+      },
+      "+4st": {
+        "filename": "segment_007_variant_+4st.wav",
+        "semitones": 4.0,
+        "original_segment_id": "segment_048"
+      },
+      "+6st": {
+        "filename": "segment_007_variant_+6st.wav",
+        "semitones": 6.0,
+        "original_segment_id": "segment_048"
+      }
+    }
+  },
+  {
+    "original_segment_index": 8,
+    "variants": {
+      "-6st": {
+        "filename": "segment_008_variant_-6st.wav",
+        "semitones": -6.0,
+        "original_segment_id": "segment_051"
+      },
+      "-4st": {
+        "filename": "segment_008_variant_-4st.wav",
+        "semitones": -4.0,
+        "original_segment_id": "segment_051"
+      },
+      "-2st": {
+        "filename": "segment_008_variant_-2st.wav",
+        "semitones": -2.0,
+        "original_segment_id": "segment_051"
+      },
+      "+0st": {
+        "filename": "segment_008_variant_original.wav",
+        "semitones": 0.0,
+        "original_segment_id": "segment_051"
+      },
+      "+2st": {
+        "filename": "segment_008_variant_+2st.wav",
+        "semitones": 2.0,
+        "original_segment_id": "segment_051"
+      },
+      "+4st": {
+        "filename": "segment_008_variant_+4st.wav",
+        "semitones": 4.0,
+        "original_segment_id": "segment_051"
+      },
+      "+6st": {
+        "filename": "segment_008_variant_+6st.wav",
+        "semitones": 6.0,
+        "original_segment_id": "segment_051"
+      }
+    }
+  },
+  {
+    "original_segment_index": 9,
+    "variants": {
+      "-6st": {
+        "filename": "segment_009_variant_-6st.wav",
+        "semitones": -6.0,
+        "original_segment_id": "segment_059"
+      },
+      "-4st": {
+        "filename": "segment_009_variant_-4st.wav",
+        "semitones": -4.0,
+        "original_segment_id": "segment_059"
+      },
+      "-2st": {
+        "filename": "segment_009_variant_-2st.wav",
+        "semitones": -2.0,
+        "original_segment_id": "segment_059"
+      },
+      "+0st": {
+        "filename": "segment_009_variant_original.wav",
+        "semitones": 0.0,
+        "original_segment_id": "segment_059"
+      },
+      "+2st": {
+        "filename": "segment_009_variant_+2st.wav",
+        "semitones": 2.0,
+        "original_segment_id": "segment_059"
+      },
+      "+4st": {
+        "filename": "segment_009_variant_+4st.wav",
+        "semitones": 4.0,
+        "original_segment_id": "segment_059"
+      },
+      "+6st": {
+        "filename": "segment_009_variant_+6st.wav",
+        "semitones": 6.0,
+        "original_segment_id": "segment_059"
+      }
+    }
+  }
+]
